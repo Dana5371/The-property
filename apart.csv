@@ -1,678 +1,888 @@
-Location,Price,Photo,Description
-"The Fairmont Palm Residences, Dubai","AED 23,500,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Sn9jzG0WQ.jpeg,"room: 5, bathroom: 4, square: 11378"
-"Palm Jumeirah, Dubai","AED 20,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RSVrj4weM.jpeg,"room: 3, bathroom: 4, square: 7809"
-"The Crescent, Dubai","AED 23,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/9NRdOCmnY.jpeg,"room: 5, bathroom: 7, square: 6991"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Palm Jumeirah, Dubai","AED 1,850,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/t4NyFmpXL.jpeg,"room: 1, bathroom: 1, square: 618"
-"Palm Jumeirah, Dubai","AED 3,250,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/s-mB9WpyT.jpeg,"room: 2, bathroom: 3, square: 1550"
-"Dubai Marina, Dubai","AED 4,500,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kbyy9ZgKT.jpeg,"room: 3, bathroom: 3, square: 1633"
-"Dubai Hills, Dubai","AED 25,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zdJUQhvhu.jpeg,"room: 7, bathroom: 7, square: 13000"
-"EMAAR South, Dubai","AED 1,785,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kFZKn-Tq6.jpeg,"room: 3, bathroom: 3, square: 4668"
-"Dubai Hills, Dubai","AED 18,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/9ZwM6nf82.jpeg,"room: 6, bathroom: 7, square: 13430"
-"Dubai Hills, Dubai","AED 33,600,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/B3mWNkO2o.jpeg,"room: 6, bathroom: 7, square: 13343"
-"Dubai Hills, Dubai","AED 27,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zB7HhD8kg.jpeg,"room: 5, bathroom: 7, square: 11453"
-"Dubai Hills, Dubai","AED 12,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/d0liW5M1A.jpeg,"room: 5, bathroom: 7, square: 7104"
-"DAMAC Hills (Akoya by DAMAC), Dubai","AED 12,700,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GnBqzAMx4.jpeg,"room: 6, bathroom: 7, square: 8200"
-"Dubai Hills, Dubai","AED 1,444,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZIfN2pr8Z.jpeg,"room: 1, bathroom: 1, square: 924"
-"Port De La Mer, Dubai","AED 1,367,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BNGImZd3l.jpeg,"room: 1, bathroom: 1, square: 815"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Arjan, Dubai","AED 1,003,035",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VVCV0DSK5.jpeg,"room: 2, bathroom: 2, square: 1019"
-"Dubai Marina, Dubai","AED 2,250,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/4dK93ULSJ.jpeg,"room: 1, bathroom: 2, square: 858"
-"Jumeirah Village Circle, Dubai","AED 1,283,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yY8Mc1Fj4.jpeg,"room: 2, bathroom: 2, square: 1299"
-"Emirates Hills, Dubai","AED 25,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XwUs29nmM.jpeg,"room: 5, bathroom: 4, square: 14695"
-"Emaar Beachfront, Dubai","AED 5,415,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oUMmNKJoC.jpeg,"room: 3, bathroom: 4, square: 1914"
-"Al Barsha South, Dubai","AED 1,187,719",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zHngPwHVi.jpeg,"room: 2, bathroom: 2, square: 1141"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Belgravia, Dubai","AED 1,063,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wAKqCUgj4.jpeg,"room: 2, bathroom: 2, square: 1093"
-"Business Bay, Dubai","AED 788,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/UXPxcts65.jpeg,"room: 1, bathroom: 2, square: 466"
-"Dubai Creek Harbour, Dubai","AED 8,901,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XglD3Tl4R.jpeg,"room: 4, bathroom: 5, square: 5190"
-"EMAAR South, Dubai","AED 1,785,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kFZKn-Tq6.jpeg,"room: 3, bathroom: 3, square: 4668"
-"Dubai Marina, Dubai","AED 2,140,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iukf_w_NJ.jpeg,"room: 1, bathroom: 2, square: 858"
-"Dubai Studio City, Dubai","AED 817,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Ny8G_aU0B.jpeg,"room: 1, bathroom: 2, square: 653"
-"Emaar Beachfront, Dubai","AED 5,008,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/n4hAOhOJD.jpeg,"room: 3, bathroom: 4, square: 1700"
-"Emaar Beachfront, Dubai","AED 3,894,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wppOWwJXp.jpeg,"room: 2, bathroom: 3, square: 1511"
-"Tilal Al Ghaf, Dubai","AED 1,259,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/w8KbX12EO.jpeg,"room: 3, bathroom: 4, square: 2152"
-"Business Bay, Dubai","AED 14,279,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/s5GD6G4am.jpeg,"room: 4, bathroom: 4, square: 6634"
-"Dubai Creek Harbour, Dubai","AED 4,856,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/dRxkWMbjZ.jpeg,"room: 4, bathroom: 5, square: 2289"
-"Business Bay, Dubai","AED 1,312,808",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/2WBuk9I0a.jpeg,"room: 1, bathroom: 2, square: 716"
-"DAMAC Hills (Akoya by DAMAC), Dubai","AED 12,700,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GnBqzAMx4.jpeg,"room: 6, bathroom: 7, square: 8200"
-"Dubai Marina, Dubai","AED 1,354,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/cf3JuyqwV.jpeg,"room: 1, bathroom: 2, square: 821"
-"The Crescent, Dubai","AED 10,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/etQCo-ukL.jpeg,"room: 4, bathroom: 5, square: 5269"
-"Downtown Dubai, Dubai","AED 20,697,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/9KUxoI5cl.jpeg,"room: 4, bathroom: 5, square: 5253"
-"Dubai Healthcare City, Dubai","AED 1,595,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ukNlLGKw6.jpeg,"room: 2, bathroom: 2, square: 1335"
-"Emaar Beachfront, Dubai","AED 5,015,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DUUDSxRS3.jpeg,"room: 3, bathroom: 4, square: 1700"
-"Dubai Hills, Dubai","AED 1,444,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZIfN2pr8Z.jpeg,"room: 1, bathroom: 1, square: 924"
-"Business Bay, Dubai","AED 2,057,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/k4zcpySr-.jpeg,"room: 1, bathroom: 2, square: 1125"
-"Maritime City, Dubai","AED 4,112,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/8Ie87BsGO.jpeg,"room: 3, bathroom: 2, square: 1931"
-"Palm Jumeirah, Dubai","AED 20,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RSVrj4weM.jpeg,"room: 3, bathroom: 4, square: 7809"
-"Downtown Dubai, Dubai","AED 6,032,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rvaXRxxk5.jpeg,"room: 3, bathroom: 3, square: 2529"
-"Emaar Beachfront, Dubai","AED 3,823,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/di5s8MxeI.jpeg,"room: 2, bathroom: 3, square: 1616"
-"Arabian Ranches 3, Dubai","AED 2,400,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/D2eqNvTms.jpeg,"room: 4, bathroom: 5, square: 2404"
-"Arabian Ranches 3, Dubai","AED 2,286,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bi0y_d9vx.jpeg,"room: 4, bathroom: 5, square: 2655"
-"Arabian Ranches 3, Dubai","AED 2,299,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RIipSDqQW.jpeg,"room: 4, bathroom: 5, square: 2646"
-"Arabian Ranches 3, Dubai","AED 2,419,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/LUZ4p9p1d.jpeg,"room: 4, bathroom: 5, square: 2483"
-"The Crescent, Dubai","AED 5,200,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HPueBLbRz.jpeg,"room: 3, bathroom: 4, square: 3481"
-"Emaar Beachfront, Dubai","AED 4,008,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XmrK2_n-p.jpeg,"room: 2, bathroom: 3, square: 1277"
-"The Crescent, Dubai","AED 10,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/etQCo-ukL.jpeg,"room: 4, bathroom: 5, square: 5269"
-"Emaar Beachfront, Dubai","AED 5,015,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DUUDSxRS3.jpeg,"room: 3, bathroom: 4, square: 1700"
-"Emaar Beachfront, Dubai","AED 2,009,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sp_CZ0fgo.jpeg,"room: 1, bathroom: 1, square: 826"
-"Emaar Beachfront, Dubai","AED 3,894,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wppOWwJXp.jpeg,"room: 2, bathroom: 3, square: 1511"
-"Emaar Beachfront, Dubai","AED 5,008,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/n4hAOhOJD.jpeg,"room: 3, bathroom: 4, square: 1700"
-"Emaar Beachfront, Dubai","AED 3,823,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/di5s8MxeI.jpeg,"room: 2, bathroom: 3, square: 1616"
-"Port De La Mer, Dubai","AED 2,306,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/_-7SfR7sK.jpeg,"room: 2, bathroom: 3, square: 1301"
-"Emaar Beachfront, Dubai","AED 4,185,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/NxIN24hvQ.jpeg,"room: 2, bathroom: 3, square: 1438"
-"Emaar Beachfront, Dubai","AED 4,071,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Sbcthyb2I.jpeg,"room: 2, bathroom: 3, square: 1590"
-"Port De La Mer, Dubai","AED 1,271,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/l_fI0_Ibg.jpeg,"room: 1, bathroom: 1, square: 732"
-"Dubai Hills, Dubai","AED 3,322,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/URL6tiZXV.jpeg,"room: 3, bathroom: 4, square: 2550"
-"Dubai Hills, Dubai","AED 1,844,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/w6T2gyYCr.jpeg,"room: 2, bathroom: 2, square: 1667"
-"Business Bay, Dubai","AED 3,071,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JtzODlRdJ.jpeg,"room: 2, bathroom: 2, square: 1741"
-"Arabian Ranches 3, Dubai","AED 1,794,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/srP27qI_1.jpeg,"room: 3, bathroom: 4, square: 2044"
-"Downtown Dubai, Dubai","AED 3,082,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Dp_AhNKLb.jpeg,"room: 1, bathroom: 2, square: 990"
-"Dubai Hills, Dubai","AED 6,383,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/c2G1Owxhy.jpeg,"room: 4, bathroom: 5, square: 5492"
-"Downtown Dubai, Dubai","AED 1,900,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XTDCVsaLr.jpeg,"room: 1, bathroom: 2, square: 890"
-"Dubai Hills, Dubai","AED 7,200,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BntwgG2bU.jpeg,"room: 4, bathroom: 5, square: 3361"
-"Dubai Marina, Dubai","AED 1,600,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DTFrVS6uV.jpeg,"room: 1, bathroom: 2, square: 865"
-"Dubai Marina, Dubai","AED 1,950,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mtacF3AO4.jpeg,"room: 1, bathroom: 2, square: 1197"
-"Emaar Beachfront, Dubai","AED 4,008,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XmrK2_n-p.jpeg,"room: 2, bathroom: 3, square: 1277"
-"Dubai Hills, Dubai","AED 2,287,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zCSYLXHfm.jpeg,"room: 3, bathroom: 3, square: 1606"
-"Dubai Creek Harbour, Dubai","AED 2,875,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vvMsnM0OW.jpeg,"room: 3, bathroom: 4, square: 1747"
-"Downtown Dubai, Dubai","AED 1,979,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/_qz1aoGuH.jpeg,"room: 1, bathroom: 1, square: 760"
-"Arabian Ranches 3, Dubai","AED 2,276,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Ii81M8S96.jpeg,"room: 4, bathroom: 5, square: 2646"
-"The Crescent, Dubai","AED 5,200,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HPueBLbRz.jpeg,"room: 3, bathroom: 4, square: 3481"
-"Palm Jumeirah, Dubai","AED 25,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/cjQ0gAlMG.jpeg,"room: 3, bathroom: 4, square: 4793"
-"The Crescent, Dubai","AED 2,950,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WbwEu7TMh.jpeg,"room: 1, bathroom: 1, square: 1134"
-"Emaar Beachfront, Dubai","AED 4,364,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zvFxUtIyeS.jpg,"room: 2, bathroom: 3, square: 1403"
-"Arabian Ranches 3, Dubai","AED 2,400,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/D2eqNvTms.jpeg,"room: 4, bathroom: 5, square: 2404"
-"Arabian Ranches 3, Dubai","AED 2,419,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/LUZ4p9p1d.jpeg,"room: 4, bathroom: 5, square: 2483"
-"Dubai Marina, Dubai","AED 1,600,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DTFrVS6uV.jpeg,"room: 1, bathroom: 2, square: 865"
-"Arabian Ranches 3, Dubai","AED 1,831,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bX7ZfruPs.jpeg,"room: 3, bathroom: 4, square: 2023"
-"The Crescent, Dubai","AED 44,040,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/QTTm_VScX.jpeg,"room: 7, bathroom: 7, square: 11316"
-"Emaar Beachfront, Dubai","AED 3,969,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GwOSIrpzKi.jpg,"room: 2, bathroom: 0, square: 1277"
-"Emaar Beachfront, Dubai","AED 5,054,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MtZKWzVkKS.jpg,"room: 3, bathroom: 0, square: 1700"
-"Business Bay, Dubai","AED 2,189,600",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BxeHQUM4T.jpeg,"room: 1, bathroom: 2, square: 876"
-"Emaar Beachfront, Dubai","AED 4,829,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TQKdOjYEdI.jpg,"room: 3, bathroom: 0, square: 1763"
-"The Crescent, Dubai","AED 51,380,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/NrU_ERm2n.jpeg,"room: 7, bathroom: 7, square: 10776"
-"Palm Jumeirah, Dubai","AED 3,250,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/s-mB9WpyT.jpeg,"room: 2, bathroom: 3, square: 1550"
-"Business Bay, Dubai","AED 4,327,120",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/plzI7jVxG.jpeg,"room: 2, bathroom: 3, square: 1602"
-"Dubai Creek Harbour, Dubai","AED 3,337,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/1ATWyaWAg.jpeg,"room: 3, bathroom: 3, square: 1669"
-"Dubai Marina, Dubai","AED 1,421,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Y0N40s6dP.jpeg,"room: 1, bathroom: 1, square: 699"
-"Jumeirah Village Circle, Dubai","AED 750,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xlpAJfW9m.jpeg,"room: 1, bathroom: 2, square: 758"
-"Belgravia, Dubai","AED 1,063,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wAKqCUgj4.jpeg,"room: 2, bathroom: 2, square: 1093"
-"Downtown Dubai, Dubai","AED 4,984,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CKCetjowT.jpeg,"room: 3, bathroom: 3, square: 2530"
-"Dubai Hills, Dubai","AED 2,287,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zCSYLXHfm.jpeg,"room: 3, bathroom: 3, square: 1606"
-"Jumeirah Village Circle, Dubai","AED 813,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/V6ADZQyAL.jpeg,"room: 1, bathroom: 1, square: 810"
-"Dubai Marina, Dubai","AED 899,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hIPetAssM.jpeg,"room: 1, bathroom: 1, square: 659"
-"Business Bay, Dubai","AED 2,189,600",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BxeHQUM4T.jpeg,"room: 1, bathroom: 2, square: 876"
-"Al Barsha South, Dubai","AED 1,187,719",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zHngPwHVi.jpeg,"room: 2, bathroom: 2, square: 1141"
-"Jumeirah Village Circle, Dubai","AED 1,283,828",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yY8Mc1Fj4.jpeg,"room: 2, bathroom: 2, square: 1299"
-"Dubai Creek Harbour, Dubai","AED 1,349,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Niv5vXocP.jpeg,"room: 1, bathroom: 1, square: 783"
-"Business Bay, Dubai","AED 35,574,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fsUBBJawb.jpeg,"room: 5, bathroom: 6, square: 10780"
-"Dubai Marina, Dubai","AED 1,354,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/cf3JuyqwV.jpeg,"room: 1, bathroom: 2, square: 821"
-"Arjan, Dubai","AED 1,003,035",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VVCV0DSK5.jpeg,"room: 2, bathroom: 2, square: 1019"
-"The Valley, Dubai","AED 1,521,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rjoPTiXmv.jpeg,"room: 3, bathroom: 4, square: 2028"
-"Tilal Al Ghaf, Dubai","AED 1,259,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/w8KbX12EO.jpeg,"room: 3, bathroom: 4, square: 2152"
-"Dubai Hills, Dubai","AED 2,168,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qgGeCNpyGF.jpg,"room: 3, bathroom: 0, square: 1603"
-"Dubai Hills, Dubai","AED 2,210,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YWAyMizBHZ.jpg,"room: 3, bathroom: 0, square: 1602"
-"Dubai Hills, Dubai","AED 5,368,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rqEIQDqUTy.jpg,"room: 3, bathroom: 0, square: 3100"
-"Dubai Hills, Dubai","AED 5,326,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KoPLQUBmyd.jpg,"room: 5, bathroom: 0, square: 4109"
-"Arabian Ranches 2, Dubai","AED 3,482,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/EQzFKSgJaY.jpg,"room: 3, bathroom: 4, square: 3052"
-"Arabian Ranches 2, Dubai","AED 3,631,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uKXlGlncix.jpg,"room: 3, bathroom: 4, square: 3052"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qDeuspeArJ.jpg,"room: 5, bathroom: 0, square: 2633"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eSMTcWoRXp.jpg,"room: 5, bathroom: 0, square: 2633"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WJLIiMDEuB.jpg,"room: 5, bathroom: 0, square: 2633"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TVltkzrYVH.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 4,009,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lFDFwGLOGi.jpg,"room: 6, bathroom: 0, square: 4056"
-"Akoya Oxygen, Dubai","AED 3,962,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VpvhPyvqMX.jpg,"room: 6, bathroom: 0, square: 4056"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wyBPZACTZi.jpg,"room: 5, bathroom: 0, square: 2516"
-"Dubai Hills, Dubai","AED 33,600,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/B3mWNkO2o.jpeg,"room: 6, bathroom: 7, square: 13343"
-"Dubai Marina, Dubai","AED 3,394,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PGrVMMRAUE.jpg,"room: 2, bathroom: 0, square: 2063"
-"Dubai Marina, Dubai","AED 3,075,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IzUYVYtTlI.jpg,"room: 3, bathroom: 0, square: 1958"
-"Dubai Marina, Dubai","AED 3,071,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CjGGPFblaJ.jpg,"room: 3, bathroom: 0, square: 1954"
-"Dubai Marina, Dubai","AED 3,051,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HWygvvjHhF.jpg,"room: 3, bathroom: 0, square: 1939"
-"Dubai Marina, Dubai","AED 3,032,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BHTsapNVYt.jpg,"room: 3, bathroom: 0, square: 1923"
-"Dubai Marina, Dubai","AED 2,993,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qDZTytmzjr.jpg,"room: 3, bathroom: 0, square: 1895"
-"Business Bay, Dubai","AED 3,096,946",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YHZr-3Omj.jpeg,"room: 1, bathroom: 2, square: 1191"
-"Dubai Hills, Dubai","AED 18,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/9ZwM6nf82.jpeg,"room: 6, bathroom: 7, square: 13430"
-"Dubai Hills, Dubai","AED 12,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/d0liW5M1A.jpeg,"room: 5, bathroom: 7, square: 7104"
-"Downtown Dubai, Dubai","AED 2,286,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/9uisoK9zX.jpeg,"room: 1, bathroom: 2, square: 891"
-"Arabian Ranches 3, Dubai","AED 2,310,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lBtGju7F6.jpeg,"room: 4, bathroom: 5, square: 2646"
-"Arabian Ranches 3, Dubai","AED 2,299,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RIipSDqQW.jpeg,"room: 4, bathroom: 5, square: 2646"
-"Arabian Ranches 3, Dubai","AED 2,286,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bi0y_d9vx.jpeg,"room: 4, bathroom: 5, square: 2655"
-"Dubai Marina, Dubai","AED 1,421,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Y0N40s6dP.jpeg,"room: 1, bathroom: 1, square: 699"
-"Akoya Oxygen, Dubai","AED 585,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fnylcLeGbr.jpg,"room: 1, bathroom: 0, square: 744"
-"Akoya Oxygen, Dubai","AED 585,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lpnazOqPRO.jpg,"room: 1, bathroom: 0, square: 744"
-"Akoya Oxygen, Dubai","AED 595,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/irhSBMPatL.jpg,"room: 1, bathroom: 0, square: 744"
-"Akoya Oxygen, Dubai","AED 1,615,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FEHsdjnWtE.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MOHRQDfvWu.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AUJcMAvjhJ.jpg,"room: 5, bathroom: 0, square: 2516"
-"Town Square, Dubai","AED 1,543,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mMIHTPtgmX.jpg,"room: 3, bathroom: 0, square: 1451"
-"Town Square, Dubai","AED 1,515,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DzTuNLjToY.jpg,"room: 3, bathroom: 0, square: 1520"
-"Serena, Dubai","AED 1,778,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PJwQGwkTYm.jpg,"room: 3, bathroom: 0, square: 2269"
-"Serena, Dubai","AED 1,340,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uISREfPHGF.jpg,"room: 2, bathroom: 0, square: 1862"
-"Business Bay, Dubai","AED 2,170,080",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TirjYLreLE.jpg,"room: 2, bathroom: 0, square: 1320"
-"Serena, Dubai","AED 1,340,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/LDKQuXSRzN.jpg,"room: 2, bathroom: 0, square: 1862"
-"Serena, Dubai","AED 1,397,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FvwTgVdJcv.jpg,"room: 2, bathroom: 0, square: 1862"
-"Dubai Hills, Dubai","AED 5,368,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rqEIQDqUTy.jpg,"room: 3, bathroom: 0, square: 3100"
-"Serena, Dubai","AED 1,467,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mfFRdmoxUC.jpg,"room: 2, bathroom: 0, square: 1481"
-"Serena, Dubai","AED 1,815,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FZKYGXnfbB.jpg,"room: 3, bathroom: 0, square: 1878"
-"Business Bay, Dubai","AED 2,102,730",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aDhONszyqR.jpg,"room: 2, bathroom: 0, square: 1330"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Town Square, Dubai","AED 620,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VMnoBBbGnC.jpg,"room: 1, bathroom: 0, square: 484"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qDeuspeArJ.jpg,"room: 5, bathroom: 0, square: 2633"
-"Villanova Dubai Properties, Dubai","AED 1,225,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eHeFpxKLhP.jpg,"room: 2, bathroom: 0, square: 1402"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eSMTcWoRXp.jpg,"room: 5, bathroom: 0, square: 2633"
-"Old Town, Dubai","AED 1,364,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CoUZwMlukA.jpg,"room: 2, bathroom: 0, square: 1377"
-"The Crescent, Dubai","AED 8,234,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vEPKXRqgAO.jpg,"room: 2, bathroom: 0, square: 1944"
-"The Crescent, Dubai","AED 11,997,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/haiwFlBSEm.jpg,"room: 2, bathroom: 0, square: 2564"
-"Dubai Hills, Dubai","AED 5,326,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KoPLQUBmyd.jpg,"room: 5, bathroom: 0, square: 4109"
-"Old Town, Dubai","AED 1,349,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iicozmGNAR.jpg,"room: 2, bathroom: 0, square: 1369"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DjMPGWqyiE.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 876,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jsFOdXlXmN.jpg,"room: 3, bathroom: 0, square: 1707"
-"Dubai Marina, Dubai","AED 7,361,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bvcKSOwpIU.jpg,"room: 4, bathroom: 5, square: 3050"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WJLIiMDEuB.jpg,"room: 5, bathroom: 0, square: 2633"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aDuFnvzOTd.jpg,"room: 2, bathroom: 0, square: 2596"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/maeyalhQNQ.jpg,"room: 3, bathroom: 0, square: 1883"
-"Old Town, Dubai","AED 1,133,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mclcTaVoLs.jpg,"room: 1, bathroom: 0, square: 1023"
-"Dubai Marina, Dubai","AED 3,075,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IzUYVYtTlI.jpg,"room: 3, bathroom: 0, square: 1958"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DNdyEjXAFk.jpg,"room: 3, bathroom: 0, square: 1884"
-"Dubai Hills, Dubai","AED 25,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zdJUQhvhu.jpeg,"room: 7, bathroom: 7, square: 13000"
-"Akoya Oxygen, Dubai","AED 1,017,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pcusWCcFbu.jpg,"room: 3, bathroom: 0, square: 1669"
-"Akoya Oxygen, Dubai","AED 1,017,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CDBsuIujol.jpg,"room: 3, bathroom: 0, square: 1669"
-"Akoya Oxygen, Dubai","AED 1,017,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BuVnaOHltV.jpg,"room: 3, bathroom: 0, square: 1669"
-"Palm Jumeirah, Dubai","AED 1,850,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sEAjyTRpPT.jpg,"room: 1, bathroom: 0, square: 643"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Akoya Oxygen, Dubai","AED 1,515,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RNLkFrFLGR.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,515,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SONDwFpxth.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,515,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OkgCRwvibM.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,660,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kXDUGEnOnX.jpg,"room: 3, bathroom: 0, square: 1624"
-"Akoya Oxygen, Dubai","AED 1,542,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JoBxSdLWpH.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,542,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qafLkmhyJS.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DNdyEjXAFk.jpg,"room: 3, bathroom: 0, square: 1884"
-"Dubai Marina, Dubai","AED 3,075,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IzUYVYtTlI.jpg,"room: 3, bathroom: 0, square: 1958"
-"The Crescent, Dubai","AED 21,098,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/EEJMWMcLZn.jpg,"room: 4, bathroom: 0, square: 7083"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DNdyEjXAFk.jpg,"room: 3, bathroom: 0, square: 1884"
-"Dubai Marina, Dubai","AED 1,803,690",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yHDjAwLhDQ.jpg,"room: 1, bathroom: 0, square: 902"
-"Town Square, Dubai","AED 1,626,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/NZotkyDCqY.jpg,"room: 6, bathroom: 0, square: 1451"
-"Dubai Marina, Dubai","AED 3,071,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CjGGPFblaJ.jpg,"room: 3, bathroom: 0, square: 1954"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YgqHgqWDRl.jpg,"room: 1, bathroom: 0, square: 1033"
-"The Crescent, Dubai","AED 9,778,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/NzauQutaKM.jpg,"room: 2, bathroom: 0, square: 2007"
-"Dubai Creek Harbour, Dubai","AED 2,135,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sWIEPpfQkr.jpg,"room: 2, bathroom: 2, square: 1299"
-"Dubai Hills, Dubai","AED 4,666,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YuYTthSZmI.jpg,"room: 4, bathroom: 0, square: 2471"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YqoTFSZXMa.jpg,"room: 3, bathroom: 0, square: 1884"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lFaVHPOmfY.jpg,"room: 1, bathroom: 0, square: 975"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XLUAmzzmHa.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vVFdhnfBck.jpg,"room: 1, bathroom: 0, square: 975"
-"Akoya Oxygen, Dubai","AED 1,660,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kXDUGEnOnX.jpg,"room: 3, bathroom: 0, square: 1624"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ReqQqrJwtY.jpg,"room: 5, bathroom: 0, square: 2516"
-"Emaar South, Dubai","AED 2,612,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vSTXOlsuqI.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,603,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fzpXIBgJbt.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,634,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GCtwEDWWak.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,656,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bKDDtiTwtG.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,631,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vTsZVgcuQU.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,633,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zYCPJNxnVJ.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,634,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OmujGpcAkn.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,640,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YQGajoJwTe.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,640,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uBpszXQOIa.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,638,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bcgKdjznTe.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,634,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vpCxMxsZSt.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,622,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rokRIvCTDB.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,621,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BntfGaQZcS.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,636,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JJXluFEFYz.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 2,655,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fjLGcMahHC.jpg,"room: 3, bathroom: 0, square: 2804"
-"Emaar South, Dubai","AED 1,067,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zTzzazzbCT.jpg,"room: 2, bathroom: 0, square: 1159"
-"Downtown Dubai, Dubai","AED 2,262,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aJnKASpbHu.jpg,"room: 2, bathroom: 0, square: 998"
-"Creek Beach, Dubai","AED 2,776,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DvkWLfXnxt.jpg,"room: 2, bathroom: 2, square: 1184"
-"Downtown Dubai, Dubai","AED 2,247,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vrlUbYFUho.jpg,"room: 2, bathroom: 0, square: 994"
-"Downtown Dubai, Dubai","AED 2,257,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kYmHgtNEvC.jpg,"room: 2, bathroom: 0, square: 998"
-"Downtown Dubai, Dubai","AED 2,253,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aChRmrQLTN.jpg,"room: 2, bathroom: 0, square: 998"
-"Downtown Dubai, Dubai","AED 2,191,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iBgmWnvdfu.jpg,"room: 2, bathroom: 2, square: 994"
-"Akoya Oxygen, Dubai","AED 1,542,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JoBxSdLWpH.jpg,"room: 3, bathroom: 0, square: 1768"
-"Damac Hills, Dubai","AED 2,206,756",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hgzJrwMTEV.jpg,"room: 3, bathroom: 0, square: 1532"
-"Downtown Dubai, Dubai","AED 2,198,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/NWhTgKGdpJ.jpg,"room: 2, bathroom: 0, square: 998"
-"Damac Hills, Dubai","AED 2,202,422",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WJqaziaaiM.jpg,"room: 3, bathroom: 0, square: 1529"
-"Dubai Hills, Dubai","AED 1,661,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lHvBkFjPcf.jpg,"room: 1, bathroom: 0, square: 1057"
-"Downtown Dubai, Dubai","AED 1,708,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qKGxQnTjpm.jpg,"room: 1, bathroom: 1, square: 657"
-"Town Square, Dubai","AED 1,629,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kwLuYJwRPu.jpg,"room: 3, bathroom: 0, square: 1501"
-"Dubai Marina, Dubai","AED 1,902,088",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/datNoHEhbk.jpg,"room: 1, bathroom: 0, square: 899"
-"Business Bay, Dubai","AED 2,110,710",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vwVlbRpyYY.jpg,"room: 2, bathroom: 0, square: 1330"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xVyDdlVxhw.jpg,"room: 3, bathroom: 0, square: 1883"
-"Dubai Hills, Dubai","AED 4,556,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kDPuVPJqwp.jpg,"room: 4, bathroom: 0, square: 2471"
-"Dubai Hills, Dubai","AED 4,666,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YuYTthSZmI.jpg,"room: 4, bathroom: 0, square: 2471"
-"Dubai Hills, Dubai","AED 4,926,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GaTtfzJeTL.jpg,"room: 4, bathroom: 0, square: 2471"
-"Dubai Hills, Dubai","AED 4,944,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HnpKExYvxJ.jpg,"room: 5, bathroom: 5, square: 2700"
-"Dubai Hills, Dubai","AED 4,404,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KyeDsxpZny.jpg,"room: 4, bathroom: 4, square: 2462"
-"Akoya Oxygen, Dubai","AED 1,899,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/utAHniGYSi.jpg,"room: 5, bathroom: 0, square: 3172"
-"Akoya Oxygen, Dubai","AED 1,337,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iivTploKgy.jpg,"room: 3, bathroom: 0, square: 1828"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DcNOQYTcom.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yMtMZUrgQn.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZDoAVYylFp.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JCGkPoulys.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eYjtEfYJSh.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BnKqRZNOHe.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/puJNBWzaFM.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/InPeopqftJ.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/EViFBZcAma.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uCtkllDeiu.jpg,"room: 3, bathroom: 0, square: 2248"
-"Mudon, Dubai","AED 1,472,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xXuJmOsevD.jpg,"room: 3, bathroom: 0, square: 1544"
-"Mudon, Dubai","AED 1,502,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sKoavbovlS.jpg,"room: 3, bathroom: 0, square: 1544"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Akoya Oxygen, Dubai","AED 876,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jsFOdXlXmN.jpg,"room: 3, bathroom: 0, square: 1707"
-"Akoya Oxygen, Dubai","AED 871,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BdoBqGcqxG.jpg,"room: 4, bathroom: 0, square: 1782"
-"Akoya Oxygen, Dubai","AED 1,117,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jFvNgJtHwM.jpg,"room: 3, bathroom: 0, square: 1696"
-"The Crescent, Dubai","AED 23,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/5gIhKQ78F.jpeg,"room: 3, bathroom: 4, square: 5980"
-"The Crescent, Dubai","AED 19,999,999",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hYbAjdfJN.jpeg,"room: 3, bathroom: 4, square: 6330"
-"Palm Jumeirah, Dubai","AED 23,937,900",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MRbWTRkClP.jpg,"room: 4, bathroom: 0, square: 4050"
-"Palm Jumeirah, Dubai","AED 52,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iazNDaAWpR.jpg,"room: 5, bathroom: 0, square: 7266"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AeDnGVgLsJ.jpg,"room: 2, bathroom: 0, square: 2571"
-"Bluewaters Island, Dubai","AED 4,203,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CuhsIfLpaF.jpg,"room: 3, bathroom: 0, square: 1835"
-"The Crescent, Dubai","AED 7,527,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KpuXSaMsIl.jpg,"room: 2, bathroom: 0, square: 1685"
-"Akoya Oxygen, Dubai","AED 1,464,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rrEltYqGcW.jpg,"room: 3, bathroom: 0, square: 1863"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ssuUSEgvxQ.jpg,"room: 5, bathroom: 0, square: 2516"
-"Bluewaters Island, Dubai","AED 3,097,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HWtGqrowxI.jpg,"room: 2, bathroom: 0, square: 1482"
-"Bluewaters Island, Dubai","AED 3,063,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oiNIjlRFgf.jpg,"room: 2, bathroom: 0, square: 1483"
-"Bluewaters Island, Dubai","AED 5,076,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/gSOTrCIrEo.jpg,"room: 3, bathroom: 0, square: 1925"
-"Bluewaters Island, Dubai","AED 3,008,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AMUucdOfZr.jpg,"room: 2, bathroom: 0, square: 1482"
-"Bluewaters Island, Dubai","AED 5,182,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KswmmPKWlp.jpg,"room: 3, bathroom: 0, square: 1934"
-"Bluewaters Island, Dubai","AED 3,044,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rRbHXUOoSe.jpg,"room: 2, bathroom: 0, square: 1487"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xaXidHMMgz.jpg,"room: 5, bathroom: 0, square: 2516"
-"Bluewaters Island, Dubai","AED 3,513,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/nWYXznGnRV.jpg,"room: 2, bathroom: 0, square: 1548"
-"Bluewaters Island, Dubai","AED 5,501,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IJApfZtuqO.jpg,"room: 3, bathroom: 0, square: 1930"
-"Business Bay, Dubai","AED 1,239,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lmddPykzcH.jpg,"room: 1, bathroom: 0, square: 628"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vzMKxrmDNC.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ssuUSEgvxQ.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eoLIErfaYG.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MOHRQDfvWu.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ReqQqrJwtY.jpg,"room: 5, bathroom: 0, square: 2516"
-"Mudon, Dubai","AED 1,651,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hPbwpjddod.jpg,"room: 2, bathroom: 0, square: 1197"
-"Mudon, Dubai","AED 1,808,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pcdSfbkcNq.jpg,"room: 3, bathroom: 0, square: 1412"
-"Mudon, Dubai","AED 1,958,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lVLhHKiQLU.jpg,"room: 3, bathroom: 0, square: 1379"
-"Mudon, Dubai","AED 1,842,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/cLxBMyCvLy.jpg,"room: 3, bathroom: 0, square: 1412"
-"Mudon, Dubai","AED 1,645,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xMnqDkRDyB.jpg,"room: 2, bathroom: 0, square: 1128"
-"Mudon, Dubai","AED 1,801,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/INoGlQxBKj.jpg,"room: 2, bathroom: 0, square: 1195"
-"Mudon, Dubai","AED 1,753,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vkYuFKRVpB.jpg,"room: 2, bathroom: 0, square: 1196"
-"Mira Oasis, Dubai","AED 1,248,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FyxRvFAoYx.jpg,"room: 2, bathroom: 0, square: 1159"
-"The Valley, Dubai","AED 1,923,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/UhjjTHKjbd.jpg,"room: 4, bathroom: 4, square: 2336"
-"The Valley, Dubai","AED 1,923,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wLSQDXfSrs.jpg,"room: 4, bathroom: 4, square: 2336"
-"The Valley, Dubai","AED 1,910,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ylvWWPAwiY.jpg,"room: 4, bathroom: 4, square: 2323"
-"Dubai Hills, Dubai","AED 1,198,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uLJSlpgNnu.jpg,"room: 2, bathroom: 0, square: 939"
-"Emaar South, Dubai","AED 2,622,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rokRIvCTDB.jpg,"room: 3, bathroom: 0, square: 2804"
-"Bluewaters Island, Dubai","AED 3,008,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AMUucdOfZr.jpg,"room: 2, bathroom: 0, square: 1482"
-"Bluewaters Island, Dubai","AED 5,182,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KswmmPKWlp.jpg,"room: 3, bathroom: 0, square: 1934"
-"Bluewaters Island, Dubai","AED 3,044,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rRbHXUOoSe.jpg,"room: 2, bathroom: 0, square: 1487"
-"Jumeirah Bay, Dubai","AED 11,240,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yvbABkudXs.jpg,"room: 2, bathroom: 0, square: 3586"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xaXidHMMgz.jpg,"room: 5, bathroom: 0, square: 2516"
-"Dubai Hills, Dubai","AED 1,082,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zrIYInqQyj.jpg,"room: 2, bathroom: 0, square: 727"
-"Dubai Hills, Dubai","AED 1,127,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/tVZeYdKHvs.jpg,"room: 2, bathroom: 0, square: 742"
-"Dubai Hills, Dubai","AED 1,099,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pfsFbVcKAW.jpg,"room: 2, bathroom: 0, square: 723"
-"Dubai Hills, Dubai","AED 1,102,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GCfPumQfkn.jpg,"room: 2, bathroom: 0, square: 725"
-"Dubai Hills, Dubai","AED 2,057,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZomeOyBZTK.jpg,"room: 2, bathroom: 0, square: 1356"
-"Bluewaters Island, Dubai","AED 5,501,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IJApfZtuqO.jpg,"room: 3, bathroom: 0, square: 1930"
-"Emaar South, Dubai","AED 2,634,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vpCxMxsZSt.jpg,"room: 3, bathroom: 0, square: 2804"
-"Business Bay, Dubai","AED 1,239,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lmddPykzcH.jpg,"room: 1, bathroom: 0, square: 628"
-"Business Bay, Dubai","AED 1,220,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MYOgWdVBkR.jpg,"room: 1, bathroom: 0, square: 628"
-"The Crescent, Dubai","AED 1,847,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wqzVPiFaZs.jpg,"room: 1, bathroom: 0, square: 831"
-"Tilal Al Ghaf, Dubai","AED 6,700,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OofhGBuygi.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,199,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IUSFlkuRhB.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 10,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/STBoKEGYww.jpg,"room: 6, bathroom: 0, square: 6515"
-"Tilal Al Ghaf, Dubai","AED 7,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OgmQlZWknc.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,510,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/porJSFXhyJ.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,563,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KgQsYTjgrL.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,616,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CahOQPpRBM.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,405,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iifXNxoAea.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,405,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RMdHIBzvGr.jpg,"room: 5, bathroom: 0, square: 5677"
-"Town Square, Dubai","AED 860,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zqvIJkZKDP.jpg,"room: 2, bathroom: 0, square: 913"
-"Town Square, Dubai","AED 610,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yGKUElCeZs.jpg,"room: 1, bathroom: 0, square: 550"
-"Town Square, Dubai","AED 1,589,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SyytSRUdTq.jpg,"room: 3, bathroom: 0, square: 1451"
-"Town Square, Dubai","AED 1,645,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FnfiLzLZAu.jpg,"room: 3, bathroom: 0, square: 1501"
-"Town Square, Dubai","AED 1,630,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HCcmYyfqmS.jpg,"room: 7, bathroom: 0, square: 1397"
-"Town Square, Dubai","AED 1,629,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kwLuYJwRPu.jpg,"room: 3, bathroom: 0, square: 1501"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/EViFBZcAma.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/InPeopqftJ.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/puJNBWzaFM.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BnKqRZNOHe.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,509,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eYjtEfYJSh.jpg,"room: 3, bathroom: 0, square: 2248"
-"Akoya Oxygen, Dubai","AED 1,515,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OkgCRwvibM.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,515,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SONDwFpxth.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,515,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RNLkFrFLGR.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,615,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FEHsdjnWtE.jpg,"room: 3, bathroom: 0, square: 1790"
-"Akoya Oxygen, Dubai","AED 1,337,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iivTploKgy.jpg,"room: 3, bathroom: 0, square: 1828"
-"Akoya Oxygen, Dubai","AED 1,899,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/utAHniGYSi.jpg,"room: 5, bathroom: 0, square: 3172"
-"Akoya Oxygen, Dubai","AED 1,017,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BuVnaOHltV.jpg,"room: 3, bathroom: 0, square: 1669"
-"Akoya Oxygen, Dubai","AED 1,017,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CDBsuIujol.jpg,"room: 3, bathroom: 0, square: 1669"
-"Akoya Oxygen, Dubai","AED 1,017,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pcusWCcFbu.jpg,"room: 3, bathroom: 0, square: 1669"
-"Akoya Oxygen, Dubai","AED 1,117,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jFvNgJtHwM.jpg,"room: 3, bathroom: 0, square: 1696"
-"Akoya Oxygen, Dubai","AED 595,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/irhSBMPatL.jpg,"room: 1, bathroom: 0, square: 744"
-"Town Square, Dubai","AED 1,569,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iocbiLflNG.jpg,"room: 3, bathroom: 0, square: 1453"
-"Town Square, Dubai","AED 1,515,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CLvVmasZzQ.jpg,"room: 3, bathroom: 0, square: 1520"
-"Town Square, Dubai","AED 640,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/gBbtqaLRAK.jpg,"room: 1, bathroom: 0, square: 482"
-"Town Square, Dubai","AED 620,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VMnoBBbGnC.jpg,"room: 1, bathroom: 0, square: 484"
-"Business Bay, Dubai","AED 1,220,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PJerUEypdK.jpg,"room: 1, bathroom: 0, square: 629"
-"Business Bay, Dubai","AED 1,239,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lmddPykzcH.jpg,"room: 1, bathroom: 0, square: 628"
-"Business Bay, Dubai","AED 1,170,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ThacLiNSTn.jpg,"room: 1, bathroom: 0, square: 628"
-"Business Bay, Dubai","AED 1,160,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FFTAmqSzFc.jpg,"room: 1, bathroom: 0, square: 628"
-"Business Bay, Dubai","AED 1,160,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WttBlRXrMS.jpg,"room: 1, bathroom: 0, square: 628"
-"Business Bay, Dubai","AED 1,040,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iENvxcwWup.jpg,"room: 1, bathroom: 0, square: 629"
-"Business Bay, Dubai","AED 1,150,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lovdhzNNnS.jpg,"room: 1, bathroom: 0, square: 628"
-"Business Bay, Dubai","AED 1,220,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MYOgWdVBkR.jpg,"room: 1, bathroom: 0, square: 628"
-"Downtown Dubai, Dubai","AED 1,807,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VcyQlgChDw.jpg,"room: 1, bathroom: 0, square: 725"
-"Downtown Dubai, Dubai","AED 1,778,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eJRcCmOens.jpg,"room: 1, bathroom: 0, square: 721"
-"Downtown Dubai, Dubai","AED 1,771,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/dkAIERCwOx.jpg,"room: 1, bathroom: 0, square: 721"
-"Downtown Dubai, Dubai","AED 13,184,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fEnWtAEvbh.jpg,"room: 4, bathroom: 0, square: 5359"
-"Mudon, Dubai","AED 1,502,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sKoavbovlS.jpg,"room: 3, bathroom: 0, square: 1544"
-"Mudon, Dubai","AED 1,472,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xXuJmOsevD.jpg,"room: 3, bathroom: 0, square: 1544"
-"Downtown Dubai, Dubai","AED 3,012,946",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kOjnbhRjpJ.jpg,"room: 2, bathroom: 0, square: 1449"
-"Downtown Dubai, Dubai","AED 3,189,756",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zTwNaympXH.jpg,"room: 2, bathroom: 0, square: 1452"
-"Downtown Dubai, Dubai","AED 3,085,986",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JUlWCidyOR.jpg,"room: 2, bathroom: 0, square: 1449"
-"Downtown Dubai, Dubai","AED 3,180,962",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/szBTpEznrx.jpg,"room: 2, bathroom: 0, square: 1508"
-"Downtown Dubai, Dubai","AED 3,596,359",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eSEuRBiNtw.jpg,"room: 2, bathroom: 0, square: 1735"
-"Dubai Marina, Dubai","AED 1,925,548",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iLFhApBEdr.jpg,"room: 1, bathroom: 0, square: 991"
-"Dubai Marina, Dubai","AED 11,998,548",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CRpNJwssBS.jpg,"room: 4, bathroom: 0, square: 4660"
-"Tilal Al Ghaf, Dubai","AED 6,405,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RMdHIBzvGr.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,405,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iifXNxoAea.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,616,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CahOQPpRBM.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,563,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KgQsYTjgrL.jpg,"room: 5, bathroom: 0, square: 5677"
-"Tilal Al Ghaf, Dubai","AED 6,510,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/porJSFXhyJ.jpg,"room: 5, bathroom: 0, square: 5677"
-"Damac Hills, Dubai","AED 1,448,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hBWinDBybQ.jpg,"room: 1, bathroom: 0, square: 1303"
-"Damac Hills, Dubai","AED 1,450,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/shnZeUZLPy.jpg,"room: 2, bathroom: 0, square: 1487"
-"The Crescent, Dubai","AED 8,132,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FUsZYKosro.jpg,"room: 2, bathroom: 0, square: 1790"
-"The Crescent, Dubai","AED 11,425,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MReltPuBPN.jpg,"room: 2, bathroom: 0, square: 2520"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AeDnGVgLsJ.jpg,"room: 2, bathroom: 0, square: 2571"
-"The Crescent, Dubai","AED 7,527,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KpuXSaMsIl.jpg,"room: 2, bathroom: 0, square: 1685"
-"The Crescent, Dubai","AED 8,337,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mfgdQrXJoB.jpg,"room: 2, bathroom: 0, square: 1942"
-"The Crescent, Dubai","AED 7,940,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MDfFSMHKKB.jpg,"room: 2, bathroom: 0, square: 1787"
-"The Crescent, Dubai","AED 7,308,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rjDNimGoUa.jpg,"room: 2, bathroom: 0, square: 1733"
-"The Crescent, Dubai","AED 7,200,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/nhjSVvzFuE.jpg,"room: 2, bathroom: 0, square: 1686"
-"The Crescent, Dubai","AED 8,440,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ELQUYsosTm.jpg,"room: 2, bathroom: 0, square: 1953"
-"The Crescent, Dubai","AED 8,234,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vEPKXRqgAO.jpg,"room: 2, bathroom: 0, square: 1944"
-"The Crescent, Dubai","AED 11,997,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/haiwFlBSEm.jpg,"room: 2, bathroom: 0, square: 2564"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aDuFnvzOTd.jpg,"room: 2, bathroom: 0, square: 2596"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MstiEjVVuD.jpg,"room: 2, bathroom: 0, square: 2593"
-"The Crescent, Dubai","AED 5,240,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oYSQJcwGAp.jpg,"room: 2, bathroom: 0, square: 1464"
-"The Crescent, Dubai","AED 12,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VDeTDkYorL.jpg,"room: 4, bathroom: 0, square: 2892"
-"The Crescent, Dubai","AED 11,500,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PYxMRXokmF.jpg,"room: 4, bathroom: 0, square: 2892"
-"Emaar Beachfront, Dubai","AED 4,022,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HPzjGQlEqr.jpg,"room: 2, bathroom: 0, square: 1277"
-"Emaar Beachfront, Dubai","AED 5,025,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sAEYWjpvXd.jpg,"room: 3, bathroom: 0, square: 1700"
-"Emaar Beachfront, Dubai","AED 5,054,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MtZKWzVkKS.jpg,"room: 3, bathroom: 0, square: 1700"
-"Emaar Beachfront, Dubai","AED 3,926,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qjVydrnpQK.jpg,"room: 2, bathroom: 0, square: 1277"
-"Emaar Beachfront, Dubai","AED 5,074,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/QZtQXKznTF.jpg,"room: 3, bathroom: 0, square: 1700"
-"Emaar Beachfront, Dubai","AED 3,744,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/NcMEcwQrfY.jpg,"room: 2, bathroom: 0, square: 1147"
-"Emaar Beachfront, Dubai","AED 4,829,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TQKdOjYEdI.jpg,"room: 3, bathroom: 0, square: 1763"
-"Emaar Beachfront, Dubai","AED 2,931,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jBqlWiVhqN.jpg,"room: 2, bathroom: 2, square: 1179"
-"Downtown Dubai, Dubai","AED 1,585,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uuUEZepVpb.jpg,"room: 1, bathroom: 1, square: 607"
-"Emaar Beachfront, Dubai","AED 2,988,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qKgwNKnGXn.jpg,"room: 2, bathroom: 2, square: 1179"
-"Emaar Beachfront, Dubai","AED 3,262,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RuINxqPWYg.jpg,"room: 2, bathroom: 2, square: 1147"
-"Emaar Beachfront, Dubai","AED 2,993,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vqMsxrwYjB.jpg,"room: 2, bathroom: 0, square: 1143"
-"Emaar Beachfront, Dubai","AED 5,910,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pbMXsvwPvR.jpg,"room: 3, bathroom: 0, square: 1925"
-"Dubai Marina, Dubai","AED 2,018,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sXHwpCRkdF.jpg,"room: 1, bathroom: 0, square: 903"
-"Emaar Beachfront, Dubai","AED 3,021,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SYXpMasOyW.jpg,"room: 2, bathroom: 0, square: 1144"
-"Emaar Beachfront, Dubai","AED 5,910,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZwgENVpRuT.jpg,"room: 3, bathroom: 0, square: 1926"
-"Emaar Beachfront, Dubai","AED 5,910,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CWfvovzvDK.jpg,"room: 3, bathroom: 0, square: 1925"
-"Emaar Beachfront, Dubai","AED 5,910,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/UmnfxLJqoE.jpg,"room: 3, bathroom: 0, square: 1925"
-"Dubai Marina, Dubai","AED 1,964,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RPOnCMECNx.jpg,"room: 1, bathroom: 0, square: 892"
-"Dubai Hills, Dubai","AED 2,210,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YWAyMizBHZ.jpg,"room: 3, bathroom: 0, square: 1602"
-"Dubai Hills, Dubai","AED 2,168,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qgGeCNpyGF.jpg,"room: 3, bathroom: 0, square: 1603"
-"Dubai Hills, Dubai","AED 4,240,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/btBuZjRYak.jpg,"room: 4, bathroom: 0, square: 2387"
-"Dubai Hills, Dubai","AED 4,805,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WLVxrOiyTO.jpg,"room: 5, bathroom: 0, square: 2700"
-"Dubai Hills, Dubai","AED 4,577,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/exDHwhrCpy.jpg,"room: 5, bathroom: 0, square: 2700"
-"Dubai Hills, Dubai","AED 4,283,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SgTXQnpwjC.jpg,"room: 4, bathroom: 0, square: 2387"
-"Dubai Hills, Dubai","AED 4,344,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/UoUFZlluef.jpg,"room: 4, bathroom: 0, square: 2462"
-"Dubai Hills, Dubai","AED 4,404,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KyeDsxpZny.jpg,"room: 4, bathroom: 4, square: 2462"
-"Palm Jumeirah, Dubai","AED 39,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oGIdDdNJxR.jpg,"room: 3, bathroom: 0, square: 4355"
-"Palm Jumeirah, Dubai","AED 34,400,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DfwMziZZKO.jpg,"room: 4, bathroom: 0, square: 4414"
-"Palm Jumeirah, Dubai","AED 52,000,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iazNDaAWpR.jpg,"room: 5, bathroom: 0, square: 7266"
-"Palm Jumeirah, Dubai","AED 23,937,900",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MRbWTRkClP.jpg,"room: 4, bathroom: 0, square: 4050"
-"Business Bay, Dubai","AED 31,494,750",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BOFkYnbNJX.jpg,"room: 4, bathroom: 0, square: 5754"
-"Business Bay, Dubai","AED 56,589,750",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HmcLSvOGwg.jpg,"room: 5, bathroom: 0, square: 9100"
-"Business Bay, Dubai","AED 32,392,500",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BhlmwiuZMG.jpg,"room: 4, bathroom: 0, square: 5761"
-"Business Bay, Dubai","AED 32,497,500",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rVPaRrefle.jpg,"room: 4, bathroom: 0, square: 5763"
-"Business Bay, Dubai","AED 32,544,750",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eSVBjJwgvw.jpg,"room: 4, bathroom: 0, square: 5751"
-"Downtown Dubai, Dubai","AED 1,589,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VMxwHNAQik.jpg,"room: 1, bathroom: 1, square: 607"
-"Business Bay, Dubai","AED 33,547,500",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VwNDaqwIto.jpg,"room: 4, bathroom: 0, square: 5759"
-"Downtown Dubai, Dubai","AED 1,771,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/dkAIERCwOx.jpg,"room: 1, bathroom: 0, square: 721"
-"Business Bay, Dubai","AED 33,489,750",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VnKorKsuFc.jpg,"room: 4, bathroom: 0, square: 6406"
-"Business Bay, Dubai","AED 33,594,750",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rSUlcJoVyJ.jpg,"room: 4, bathroom: 0, square: 5779"
-"Business Bay, Dubai","AED 33,594,750",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/moaurhnyWn.jpg,"room: 4, bathroom: 0, square: 6421"
-"Business Bay, Dubai","AED 2,016,097",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IYDuiZyaxV.jpg,"room: 1, bathroom: 0, square: 1143"
-"Downtown Dubai, Dubai","AED 1,778,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eJRcCmOens.jpg,"room: 1, bathroom: 0, square: 721"
-"Business Bay, Dubai","AED 2,788,243",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hlMCfBVzbK.jpg,"room: 2, bathroom: 0, square: 1681"
-"Business Bay, Dubai","AED 2,933,385",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KPRuaiPTho.jpg,"room: 2, bathroom: 0, square: 1663"
-"Business Bay, Dubai","AED 1,963,770",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BdlbURkQAS.jpg,"room: 1, bathroom: 0, square: 1184"
-"Business Bay, Dubai","AED 1,980,780",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sVNgVzYiOJ.jpg,"room: 1, bathroom: 0, square: 1123"
-"Downtown Dubai, Dubai","AED 3,189,756",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zTwNaympXH.jpg,"room: 2, bathroom: 0, square: 1452"
-"Downtown Dubai, Dubai","AED 3,012,946",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kOjnbhRjpJ.jpg,"room: 2, bathroom: 0, square: 1449"
-"Downtown Dubai, Dubai","AED 3,131,320",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ceEJsDHtZx.jpg,"room: 2, bathroom: 0, square: 1452"
-"Downtown Dubai, Dubai","AED 3,490,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AFrtdiOCQp.jpg,"room: 2, bathroom: 0, square: 1691"
-"Downtown Dubai, Dubai","AED 2,590,799",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DfkpoAZbWW.jpg,"room: 1, bathroom: 0, square: 1153"
-"Downtown Dubai, Dubai","AED 1,750,291",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wdYgFa20b.jpeg,"room: 1, bathroom: 1, square: 892"
-"Dubai Creek Harbour, Dubai","AED 3,279,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DgxkqraiXT.jpg,"room: 3, bathroom: 0, square: 1605"
-"Dubai Creek Harbour, Dubai","AED 3,246,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lUakFiGESF.jpg,"room: 3, bathroom: 0, square: 1581"
-"Dubai Creek Harbour, Dubai","AED 3,242,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XQuSidEMkj.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,242,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qYcCiVDdwo.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,237,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/tiXfGrJlTI.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,237,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FQJRgQeKrU.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,229,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DMqEkWhZyl.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,221,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BCQJdOZaWQ.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,221,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MhYEiWzIVs.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 2,144,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aikuUAGojM.jpg,"room: 2, bathroom: 0, square: 1069"
-"Downtown Dubai, Dubai","AED 1,715,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wpUSchbrWy.jpg,"room: 1, bathroom: 1, square: 657"
-"Downtown Dubai, Dubai","AED 1,752,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/drFlrlVfBU.jpg,"room: 1, bathroom: 0, square: 735"
-"Downtown Dubai, Dubai","AED 1,922,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/EatFsqrcJZ.jpg,"room: 1, bathroom: 1, square: 740"
-"Downtown Dubai, Dubai","AED 1,922,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fEWMSpihJp.jpg,"room: 1, bathroom: 1, square: 740"
-"Downtown Dubai, Dubai","AED 2,998,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HmEeyBhjbY.jpg,"room: 3, bathroom: 0, square: 1352"
-"Downtown Dubai, Dubai","AED 3,005,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xIksikZucV.jpg,"room: 3, bathroom: 0, square: 1352"
-"Downtown Dubai, Dubai","AED 2,177,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/LxuYTwaiin.jpg,"room: 2, bathroom: 0, square: 998"
-"Downtown Dubai, Dubai","AED 3,011,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/nLxBJWOaxe.jpg,"room: 3, bathroom: 0, square: 1352"
-"Downtown Dubai, Dubai","AED 3,017,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ArOEngixne.jpg,"room: 3, bathroom: 0, square: 1352"
-"Downtown Dubai, Dubai","AED 13,184,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fEnWtAEvbh.jpg,"room: 4, bathroom: 0, square: 5359"
-"Downtown Dubai, Dubai","AED 6,138,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aZUqaiiOyb.jpg,"room: 4, bathroom: 0, square: 2977"
-"Downtown Dubai, Dubai","AED 6,275,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zODJXSbsGS.jpg,"room: 4, bathroom: 0, square: 3039"
-"Downtown Dubai, Dubai","AED 3,759,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lWFmFdirdH.jpg,"room: 3, bathroom: 0, square: 2432"
-"Downtown Dubai, Dubai","AED 2,731,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/weopLWHfrI.jpg,"room: 2, bathroom: 0, square: 1706"
-"Downtown Dubai, Dubai","AED 3,598,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pwUBWoRINM.jpg,"room: 3, bathroom: 0, square: 1935"
-"Downtown Dubai, Dubai","AED 3,913,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pWXBDKwjdK.jpg,"room: 3, bathroom: 0, square: 1784"
-"Downtown Dubai, Dubai","AED 2,347,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/gVDBZSBYgx.jpg,"room: 2, bathroom: 2, square: 1083"
-"Dubai Hills, Dubai","AED 2,493,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fTBADTuwqX.jpg,"room: 2, bathroom: 0, square: 1895"
-"Dubai Hills, Dubai","AED 2,654,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WsxOFYhaSe.jpg,"room: 3, bathroom: 0, square: 2207"
-"Dubai Hills, Dubai","AED 4,110,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uizRJzejjh.jpg,"room: 3, bathroom: 0, square: 3414"
-"Dubai Hills, Dubai","AED 2,011,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YDHKvrCkfI.jpg,"room: 2, bathroom: 0, square: 1297"
-"Dubai Hills, Dubai","AED 1,911,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OsPoJenhHy.jpg,"room: 2, bathroom: 0, square: 1297"
-"Downtown Dubai, Dubai","AED 2,295,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TuX3gQOH7.jpeg,"room: 2, bathroom: 3, square: 1981"
-"Downtown Dubai, Dubai","AED 1,999,999",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/km3McLop7.jpeg,"room: 1, bathroom: 2, square: 1358"
-"Old Town, Dubai","AED 1,315,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/dhpwGiWxjY.jpg,"room: 2, bathroom: 0, square: 1369"
-"Old Town, Dubai","AED 1,410,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ssyjzGyesy.jpg,"room: 2, bathroom: 0, square: 1369"
-"Old Town, Dubai","AED 1,349,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/iicozmGNAR.jpg,"room: 2, bathroom: 0, square: 1369"
-"Old Town, Dubai","AED 1,364,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/CoUZwMlukA.jpg,"room: 2, bathroom: 0, square: 1377"
-"Old Town, Dubai","AED 1,133,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mclcTaVoLs.jpg,"room: 1, bathroom: 0, square: 1023"
-"Old Town, Dubai","AED 1,128,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zGzZXljwYz.jpg,"room: 1, bathroom: 0, square: 1023"
-"Old Town, Dubai","AED 1,081,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vjEFsdgZVV.jpg,"room: 1, bathroom: 0, square: 1023"
-"Old Town, Dubai","AED 1,071,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JjaJDTaYtd.jpg,"room: 1, bathroom: 0, square: 1023"
-"Dubai Creek Harbour, Dubai","AED 3,368,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/azudTLZXNJ.jpg,"room: 3, bathroom: 4, square: 1669"
-"Dubai Creek Harbour, Dubai","AED 3,318,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/buYDjxeFYk.jpg,"room: 3, bathroom: 4, square: 1589"
-"Town Square, Dubai","AED 610,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yGKUElCeZs.jpg,"room: 1, bathroom: 0, square: 550"
-"Dubai Creek Harbour, Dubai","AED 2,144,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aikuUAGojM.jpg,"room: 2, bathroom: 0, square: 1069"
-"Dubai Creek Harbour, Dubai","AED 3,221,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MhYEiWzIVs.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,237,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FQJRgQeKrU.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,237,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/tiXfGrJlTI.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,242,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qYcCiVDdwo.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,242,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XQuSidEMkj.jpg,"room: 3, bathroom: 0, square: 1593"
-"Dubai Creek Harbour, Dubai","AED 3,246,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lUakFiGESF.jpg,"room: 3, bathroom: 0, square: 1581"
-"Dubai Creek Harbour, Dubai","AED 3,279,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DgxkqraiXT.jpg,"room: 3, bathroom: 0, square: 1605"
-"Creek Beach, Dubai","AED 2,352,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OnXONxsSeE.jpg,"room: 3, bathroom: 4, square: 1492"
-"Creek Beach, Dubai","AED 2,357,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oprZPIedGO.jpg,"room: 3, bathroom: 4, square: 1492"
-"Creek Beach, Dubai","AED 2,362,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vvfwaiDDfc.jpg,"room: 3, bathroom: 4, square: 1492"
-"Creek Beach, Dubai","AED 2,410,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XSkEdDHYoe.jpg,"room: 3, bathroom: 4, square: 1526"
-"Creek Beach, Dubai","AED 2,415,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IWJjgRMLHL.jpg,"room: 3, bathroom: 4, square: 1526"
-"Business Bay, Dubai","AED 2,933,385",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KPRuaiPTho.jpg,"room: 2, bathroom: 0, square: 1663"
-"Business Bay, Dubai","AED 2,788,243",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hlMCfBVzbK.jpg,"room: 2, bathroom: 0, square: 1681"
-"Business Bay, Dubai","AED 2,016,097",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IYDuiZyaxV.jpg,"room: 1, bathroom: 0, square: 1143"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/viOhbwCZcE.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XKpOCzlhwP.jpg,"room: 1, bathroom: 0, square: 975"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZZcNEcLCuF.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OOAkeAhbfd.jpg,"room: 1, bathroom: 0, square: 975"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GfNPBMwFDf.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IHMcCZXkwG.jpg,"room: 1, bathroom: 0, square: 975"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZglCgpLXxl.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vVFdhnfBck.jpg,"room: 1, bathroom: 0, square: 975"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XLUAmzzmHa.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 1,379,769",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lFaVHPOmfY.jpg,"room: 1, bathroom: 0, square: 975"
-"Business Bay, Dubai","AED 1,462,168",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YgqHgqWDRl.jpg,"room: 1, bathroom: 0, square: 1033"
-"Business Bay, Dubai","AED 35,574,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fsUBBJawb.jpeg,"room: 5, bathroom: 6, square: 10780"
-"Business Bay, Dubai","AED 2,203,296",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/sqhILVgpcj.jpg,"room: 2, bathroom: 0, square: 1415"
-"Business Bay, Dubai","AED 2,200,464",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/gAmlwVHZhh.jpg,"room: 2, bathroom: 0, square: 1415"
-"Business Bay, Dubai","AED 2,180,640",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OOfFFqPlns.jpg,"room: 2, bathroom: 0, square: 1320"
-"Business Bay, Dubai","AED 2,170,080",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TirjYLreLE.jpg,"room: 2, bathroom: 0, square: 1320"
-"Business Bay, Dubai","AED 2,110,710",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vwVlbRpyYY.jpg,"room: 2, bathroom: 0, square: 1330"
-"Business Bay, Dubai","AED 2,102,730",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/aDhONszyqR.jpg,"room: 2, bathroom: 0, square: 1330"
-"Business Bay, Dubai","AED 3,596,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/dUOYkHTbdy.jpg,"room: 2, bathroom: 0, square: 1921"
-"Business Bay, Dubai","AED 4,200,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KqaPwVgdIW.jpg,"room: 2, bathroom: 0, square: 1921"
-"Business Bay, Dubai","AED 3,673,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wXDCdMlxjq.jpg,"room: 2, bathroom: 0, square: 1962"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Business Bay, Dubai","AED 2,593,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jwvXUTgoiz.jpg,"room: 1, bathroom: 0, square: 1166"
-"Business Bay, Dubai","AED 2,502,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ugEIqchwbG.jpg,"room: 1, bathroom: 0, square: 1125"
-"Emaar Beachfront, Dubai","AED 2,048,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eMonTsmMWY.jpg,"room: 1, bathroom: 1, square: 718"
-"Emaar Beachfront, Dubai","AED 3,121,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ugRASbRHzm.jpg,"room: 2, bathroom: 3, square: 1253"
-"Emaar Beachfront, Dubai","AED 2,948,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FiAYFlmxws.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,993,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/txtkQIzDCn.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,906,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GdrbhKeExu.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,907,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xChaHCcGRQ.jpg,"room: 2, bathroom: 3, square: 1254"
-"Old Town, Dubai","AED 1,071,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JjaJDTaYtd.jpg,"room: 1, bathroom: 0, square: 1023"
-"Emaar Beachfront, Dubai","AED 2,906,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hWRsqMbLve.jpg,"room: 2, bathroom: 3, square: 1254"
-"Akoya Oxygen, Dubai","AED 871,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/BdoBqGcqxG.jpg,"room: 4, bathroom: 0, square: 1782"
-"Akoya Oxygen, Dubai","AED 876,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jsFOdXlXmN.jpg,"room: 3, bathroom: 0, square: 1707"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/wyBPZACTZi.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 3,962,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VpvhPyvqMX.jpg,"room: 6, bathroom: 0, square: 4056"
-"Akoya Oxygen, Dubai","AED 2,194,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AUJcMAvjhJ.jpg,"room: 5, bathroom: 0, square: 2516"
-"Akoya Oxygen, Dubai","AED 4,009,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/lFDFwGLOGi.jpg,"room: 6, bathroom: 0, square: 4056"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Akoya Oxygen, Dubai","AED 2,144,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ReqQqrJwtY.jpg,"room: 5, bathroom: 0, square: 2516"
-"Emaar Beachfront, Dubai","AED 3,021,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SYXpMasOyW.jpg,"room: 2, bathroom: 0, square: 1144"
-"Emaar Beachfront, Dubai","AED 5,910,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pbMXsvwPvR.jpg,"room: 3, bathroom: 0, square: 1925"
-"Emaar Beachfront, Dubai","AED 2,993,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vqMsxrwYjB.jpg,"room: 2, bathroom: 0, square: 1143"
-"Emaar Beachfront, Dubai","AED 3,262,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RuINxqPWYg.jpg,"room: 2, bathroom: 2, square: 1147"
-"Emaar Beachfront, Dubai","AED 2,931,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/jBqlWiVhqN.jpg,"room: 2, bathroom: 2, square: 1179"
-"Emaar Beachfront, Dubai","AED 2,988,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qKgwNKnGXn.jpg,"room: 2, bathroom: 2, square: 1179"
-"Emaar Beachfront, Dubai","AED 2,020,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WqrycZezPZ.jpg,"room: 1, bathroom: 1, square: 718"
-"Emaar Beachfront, Dubai","AED 2,020,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/heaYcIpXpF.jpg,"room: 1, bathroom: 1, square: 718"
-"Emaar Beachfront, Dubai","AED 2,020,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/fGcmnhKnOu.jpg,"room: 1, bathroom: 1, square: 718"
-"Emaar Beachfront, Dubai","AED 2,048,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eMonTsmMWY.jpg,"room: 1, bathroom: 1, square: 718"
-"Emaar Beachfront, Dubai","AED 2,081,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XatPGXqcyo.jpg,"room: 1, bathroom: 1, square: 718"
-"Emaar Beachfront, Dubai","AED 2,906,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GdrbhKeExu.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,906,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/hWRsqMbLve.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,907,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/xChaHCcGRQ.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,948,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FiAYFlmxws.jpg,"room: 2, bathroom: 3, square: 1254"
-"Emaar Beachfront, Dubai","AED 2,993,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/txtkQIzDCn.jpg,"room: 2, bathroom: 3, square: 1254"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yMtMZUrgQn.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,343,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TVltkzrYVH.jpg,"room: 3, bathroom: 0, square: 1768"
-"Akoya Oxygen, Dubai","AED 1,464,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZKVNgEDeHD.jpg,"room: 3, bathroom: 0, square: 1863"
-"Dubai Production City, Dubai","AED 813,661",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uxDiDabtWJ.jpg,"room: 1, bathroom: 0, square: 775"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Akoya Oxygen, Dubai","AED 1,307,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FIZgrkCSxP.jpg,"room: 3, bathroom: 0, square: 1883"
-"Akoya Oxygen, Dubai","AED 1,307,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/avVwhnlRvH.jpg,"room: 3, bathroom: 0, square: 1883"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-not found,under contract,not found,"room: not found, bathroom: not found, square: not found"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/YqoTFSZXMa.jpg,"room: 3, bathroom: 0, square: 1884"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DNdyEjXAFk.jpg,"room: 3, bathroom: 0, square: 1884"
-"Akoya Oxygen, Dubai","AED 1,426,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/maeyalhQNQ.jpg,"room: 3, bathroom: 0, square: 1883"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WJLIiMDEuB.jpg,"room: 5, bathroom: 0, square: 2633"
-"Dubai Hills, Dubai","AED 5,326,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KoPLQUBmyd.jpg,"room: 5, bathroom: 0, square: 4109"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/eSMTcWoRXp.jpg,"room: 5, bathroom: 0, square: 2633"
-"Akoya Oxygen, Dubai","AED 2,255,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qDeuspeArJ.jpg,"room: 5, bathroom: 0, square: 2633"
-"Emaar Beachfront, Dubai","AED 5,424,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/cFpxgHCxDi.jpg,"room: 3, bathroom: 0, square: 1518"
-"Emaar Beachfront, Dubai","AED 2,661,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VkYJaiukSJ.jpg,"room: 2, bathroom: 0, square: 1005"
-"Emaar Beachfront, Dubai","AED 2,584,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MeakjFcKjR.jpg,"room: 2, bathroom: 0, square: 998"
-"Emaar Beachfront, Dubai","AED 2,004,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/citwHkdHBj.jpg,"room: 1, bathroom: 0, square: 672"
-"Dubai Creek Harbour, Dubai","AED 2,720,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/atBTXelGql.jpg,"room: 2, bathroom: 0, square: 1137"
-"Dubai Creek Harbour, Dubai","AED 2,710,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/yHTDpPDifz.jpg,"room: 2, bathroom: 0, square: 1137"
-"Dubai Creek Harbour, Dubai","AED 2,703,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WnGIxrNvbD.jpg,"room: 2, bathroom: 0, square: 1137"
-"Dubai Creek Harbour, Dubai","AED 2,648,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/tRzaFOStck.jpg,"room: 2, bathroom: 0, square: 1121"
-"Dubai Creek Harbour, Dubai","AED 1,738,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/SSnUvqKTsw.jpg,"room: 1, bathroom: 0, square: 761"
-"Creek Beach, Dubai","AED 2,776,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DvkWLfXnxt.jpg,"room: 2, bathroom: 2, square: 1184"
-"Creek Beach, Dubai","AED 2,709,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ZAwdhJKoEC.jpg,"room: 2, bathroom: 2, square: 1170"
-"Creek Beach, Dubai","AED 2,119,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qSlXJrtekw.jpg,"room: 2, bathroom: 2, square: 1210"
-"Creek Beach, Dubai","AED 2,290,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/qQnnbBVYMb.jpg,"room: 2, bathroom: 2, square: 1187"
-"Creek Beach, Dubai","AED 2,346,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/igKnttqdZQ.jpg,"room: 2, bathroom: 2, square: 1187"
-"Creek Beach, Dubai","AED 2,156,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kuvBzrhVUY.jpg,"room: 2, bathroom: 2, square: 1228"
-"Dubai Creek Harbour, Dubai","AED 1,583,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/WXHNrzgnGC.jpg,"room: 2, bathroom: 0, square: 1102"
-"Dubai Creek Harbour, Dubai","AED 3,368,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/azudTLZXNJ.jpg,"room: 3, bathroom: 4, square: 1669"
-"Dubai Creek Harbour, Dubai","AED 1,584,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ijUPQkrOgo.jpg,"room: 2, bathroom: 2, square: 1070"
-"Dubai Creek Harbour, Dubai","AED 1,856,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MwuIWpgPCZ.jpg,"room: 2, bathroom: 2, square: 1091"
-"Dubai Creek Harbour, Dubai","AED 1,840,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/kKSGCmgDlB.jpg,"room: 2, bathroom: 2, square: 1073"
-"Dubai Creek Harbour, Dubai","AED 3,318,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/buYDjxeFYk.jpg,"room: 3, bathroom: 4, square: 1589"
-"Dubai Creek Harbour, Dubai","AED 3,337,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/1ATWyaWAg.jpeg,"room: 3, bathroom: 3, square: 1669"
-"Creek Beach, Dubai","AED 2,410,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/XSkEdDHYoe.jpg,"room: 3, bathroom: 4, square: 1526"
-"Creek Beach, Dubai","AED 2,415,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IWJjgRMLHL.jpg,"room: 3, bathroom: 4, square: 1526"
-"Creek Beach, Dubai","AED 2,422,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/LAOuKonwcO.jpg,"room: 3, bathroom: 4, square: 1526"
-"Creek Beach, Dubai","AED 2,352,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OnXONxsSeE.jpg,"room: 3, bathroom: 4, square: 1492"
-"Creek Beach, Dubai","AED 2,357,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oprZPIedGO.jpg,"room: 3, bathroom: 4, square: 1492"
-"Creek Beach, Dubai","AED 2,362,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vvfwaiDDfc.jpg,"room: 3, bathroom: 4, square: 1492"
-"Dubai Hills, Dubai","AED 2,197,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TlRbNSfjEk.jpg,"room: 3, bathroom: 0, square: 1465"
-"Dubai Hills, Dubai","AED 2,490,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VRomkeFJPf.jpg,"room: 3, bathroom: 0, square: 1975"
-"Dubai Hills, Dubai","AED 2,075,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zxdQMcmXBK.jpg,"room: 2, bathroom: 0, square: 1357"
-"Dubai Hills, Dubai","AED 2,064,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MNefAJCQsN.jpg,"room: 2, bathroom: 0, square: 1355"
-"Town Square, Dubai","AED 620,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/VMnoBBbGnC.jpg,"room: 1, bathroom: 0, square: 484"
-"Serena, Dubai","AED 1,815,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FZKYGXnfbB.jpg,"room: 3, bathroom: 0, square: 1878"
-"Serena, Dubai","AED 1,467,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mfFRdmoxUC.jpg,"room: 2, bathroom: 0, square: 1481"
-"Serena, Dubai","AED 1,397,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/FvwTgVdJcv.jpg,"room: 2, bathroom: 0, square: 1862"
-"Serena, Dubai","AED 1,340,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/LDKQuXSRzN.jpg,"room: 2, bathroom: 0, square: 1862"
-"Serena, Dubai","AED 1,340,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uISREfPHGF.jpg,"room: 2, bathroom: 0, square: 1862"
-"Serena, Dubai","AED 1,778,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PJwQGwkTYm.jpg,"room: 3, bathroom: 0, square: 2269"
-"Town Square, Dubai","AED 1,515,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/DzTuNLjToY.jpg,"room: 3, bathroom: 0, square: 1520"
-"Town Square, Dubai","AED 1,543,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mMIHTPtgmX.jpg,"room: 3, bathroom: 0, square: 1451"
-"Port De La Mer, Dubai","AED 3,516,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/TVaayHYULA.jpg,"room: 3, bathroom: 4, square: 2007"
-"Port De La Mer, Dubai","AED 3,892,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KNiBHpffhu.jpg,"room: 3, bathroom: 0, square: 2017"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MstiEjVVuD.jpg,"room: 2, bathroom: 0, square: 2593"
-"The Crescent, Dubai","AED 7,308,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rjDNimGoUa.jpg,"room: 2, bathroom: 0, square: 1733"
-"The Crescent, Dubai","AED 8,440,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ELQUYsosTm.jpg,"room: 2, bathroom: 0, square: 1953"
-"The Crescent, Dubai","AED 7,200,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/nhjSVvzFuE.jpg,"room: 2, bathroom: 0, square: 1686"
-"The Crescent, Dubai","AED 7,940,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MDfFSMHKKB.jpg,"room: 2, bathroom: 0, square: 1787"
-"The Crescent, Dubai","AED 20,664,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JmPkVcJlEo.jpg,"room: 4, bathroom: 0, square: 6500"
-"The Crescent, Dubai","AED 26,084,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/JxRmJFmnYS.jpg,"room: 4, bathroom: 0, square: 8819"
-"The Crescent, Dubai","AED 8,337,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mfgdQrXJoB.jpg,"room: 2, bathroom: 0, square: 1942"
-"Bluewaters Island, Dubai","AED 3,472,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/bKCkkVYQmB.jpg,"room: 2, bathroom: 0, square: 1507"
-"Business Bay, Dubai","AED 1,220,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PJerUEypdK.jpg,"room: 1, bathroom: 0, square: 629"
-"Business Bay, Dubai","AED 1,220,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MYOgWdVBkR.jpg,"room: 1, bathroom: 0, square: 628"
-"Bluewaters Island, Dubai","AED 3,044,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/rRbHXUOoSe.jpg,"room: 2, bathroom: 0, square: 1487"
-"The Crescent, Dubai","AED 7,527,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KpuXSaMsIl.jpg,"room: 2, bathroom: 0, square: 1685"
-"The Crescent, Dubai","AED 11,322,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AeDnGVgLsJ.jpg,"room: 2, bathroom: 0, square: 2571"
-"Town Square, Dubai","AED 1,598,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vIIPEFUtuz.jpg,"room: 5, bathroom: 0, square: 1451"
-"Town Square, Dubai","AED 1,576,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ghRFIynuyA.jpg,"room: 3, bathroom: 0, square: 1628"
-"Town Square, Dubai","AED 1,601,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pBkozBvUjJ.jpg,"room: 3, bathroom: 0, square: 1501"
-"The Crescent, Dubai","AED 11,425,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MReltPuBPN.jpg,"room: 2, bathroom: 0, square: 2520"
-"Dubai Marina, Dubai","AED 1,964,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/MPGFAHHBcC.jpg,"room: 1, bathroom: 0, square: 892"
-"Downtown Dubai, Dubai","AED 1,700,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/AsfSSrmROe.jpg,"room: 1, bathroom: 1, square: 657"
-"Dubai Hills, Dubai","AED 3,478,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/tngQffGdva.jpg,"room: 3, bathroom: 0, square: 2175"
-"Dubai Hills, Dubai","AED 783,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/mIOJMneNaY.jpg,"room: 1, bathroom: 1, square: 486"
-"Dubai Hills, Dubai","AED 787,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pkFuOtbVkj.jpg,"room: 1, bathroom: 1, square: 486"
-"Dubai Hills, Dubai","AED 774,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/RPcampNZsl.jpg,"room: 1, bathroom: 1, square: 482"
-"Dubai Hills, Dubai","AED 1,127,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/oEJsAdhtIf.jpg,"room: 2, bathroom: 0, square: 742"
-"Dubai Hills, Dubai","AED 1,102,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/GCfPumQfkn.jpg,"room: 2, bathroom: 0, square: 725"
-"Dubai Hills, Dubai","AED 1,099,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pfsFbVcKAW.jpg,"room: 2, bathroom: 0, square: 723"
-"Dubai Hills, Dubai","AED 1,127,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/tVZeYdKHvs.jpg,"room: 2, bathroom: 0, square: 742"
-"Dubai Hills, Dubai","AED 1,082,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/zrIYInqQyj.jpg,"room: 2, bathroom: 0, square: 727"
-"Dubai Hills, Dubai","AED 1,198,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/uLJSlpgNnu.jpg,"room: 2, bathroom: 0, square: 939"
-"Dubai Hills, Dubai","AED 1,097,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/OlXwwqkUkc.jpg,"room: 2, bathroom: 0, square: 725"
-"Madinat Jumeirah Living, Dubai","AED 5,404,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/Jn0a5M-dW.jpeg,"room: 4, bathroom: 5, square: 3052"
-"Nad Al Sheba 1, Dubai","AED 17,919,096",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/vTIrhxYvgT.jpg,"room: 5, bathroom: 0, square: 8932"
-"Nad Al Sheba 1, Dubai","AED 16,868,634",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/quTQUMMuvW.jpg,"room: 5, bathroom: 0, square: 8409"
-"Nad Al Sheba 1, Dubai","AED 17,919,096",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/pcOluAMYhq.jpg,"room: 5, bathroom: 0, square: 8932"
-"Nad Al Sheba 1, Dubai","AED 16,868,634",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/KWXzsuffIU.jpg,"room: 5, bathroom: 0, square: 8409"
-"Nad Al Sheba 1, Dubai","AED 17,919,097",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/ojjZKjiqBq.jpg,"room: 5, bathroom: 0, square: 8933"
-"Town Square, Dubai","AED 1,630,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HCcmYyfqmS.jpg,"room: 7, bathroom: 0, square: 1397"
-"The Crescent, Dubai","AED 1,935,000",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/IUOybxZBkC.jpg,"room: 1, bathroom: 0, square: 838"
-"The Crescent, Dubai","AED 20,107,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/HmKGewNHrL.jpg,"room: 4, bathroom: 0, square: 8114"
-"The Crescent, Dubai","AED 17,299,888",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/PvdJSdpnYM.jpg,"room: 4, bathroom: 0, square: 5538"
-"Business Bay, Dubai","AED 2,200,464",https://d7i54qaggkyj3.cloudfront.net/thumb/property/JPEG/gAmlwVHZhh.jpg,"room: 2, bathroom: 0, square: 1415"
+Title,Location,Price,Description,Link
+"1-комн. кв., 32 м2, 2 этаж из 4","Бишкек, 8 м-н","$ 28 700,2 433 441 сом","Срочно! Продаю 1ком квартиру.8мкр по Жукеева Пудовкина.
+•На 2 этаж из 4-х,  не угловая
+•104 серии, балкон застеклённый
+•Окна смотрят на юг
+•Очень тепл...",https://www.house.kg/details/58457261c66a3f3b02e8-03229668
+"3-комн. кв., 71 м2, 5 этаж из 5","Бишкек, Золотой квадрат, Логвиненко/Киевская","$ 63 000,5 341 701 сом","Продается просторная, светлая, теплая 3-х комнатная квартира в центре (Логвиненко/Киевская).
+
+Дом кирпичный, планировка индивидуальная, 5/5 + техничес...",https://www.house.kg/details/8955720619f38d1b936c3-21773482
+"4-комн. кв., 140 м2, 2 этаж из 5","Лебединовка, с. Лебединовка, ул. Мичурина 11","$ 110 000,9 326 779 сом","Продаю 4 комнатную квартиру
+ЖК Мичуринский квартал
+Ауэзова / Салиева
+Немецкий проект
+Площадь 140м2
+Этаж 2 и 6
+Под псо
+White box
+Дом премиум класса, ли...",https://www.house.kg/details/77169476189f152227110-70514780
+"Дом, 6 и более комнат, 341 м2","Бишкек, Ала-Арча ж/м","$ 390 000,33 067 671 сом","Продаю шикарный 2 этажный особняк 
+с. Ортосай , ориентир ВИП городок ""BRAVO""
+Общая площадь -341м2 
+Участок-5 соток на красной книге 
+Тип строения-кирп...",https://www.house.kg/details/78273666189ee57587537-42231181
+"2-комн. кв., 62 м2, 6 этаж из 12","Бишкек, КНУ, Фрунзе 571/Уметалиева","$ 42 000,3 561 134 сом",,https://www.house.kg/details/464890061c838f4dea157-65373672
+"2-комн. кв., 59.6 м2, 3 этаж из 9","Бишкек, Джал-29 м-н, Тыналиева/Южная Магистраль","$ 36 000,3 052 400 сом",,https://www.house.kg/details/3675859618a86451f21d6-97763446
+"Коммерческая недвижимость, 29 м2","Бишкек, Дордой Плаза, Ibraimova 115","$ 12 000,1 017 467 сом","Продаётся бутик 31 кВ.М в ТЦ «Дордой Плаза»
+⠀
+Бутик находится на втором этаже ТЦ «Дордой Плаза» (Ибрагимова 115)
+2 этаж / G6 (рядом со столовой Кантин...",https://www.house.kg/details/365094361c7612d158586-88979306
+"Коммерческая недвижимость, 3000 м2","Чолпон-Ата, Ленина 1/Акималиева","$ 840 000,71 222 676 сом","Продаю строящееся здание в центре г. Чолпон-Ата. Назначение - гостиничный комплекс. Площадью 3000 кв.м. Участок - 40 соток. Центральная канализация, в...",https://www.house.kg/details/672507961a4ba54247322-07666785
+"Дом, 6 и более комнат, 180 м2","Бишкек, Пишпек ж/м, Маликова 38/Аммосова","$ 135 000,11 446 502 сом","Продаётся дом в Пишпеке!
+Очень тихий район
+Дом кирпичный, строили для себя
+Все коммуникации (газ, вода, канализация, свет, интернет) 
+Отопление: твёрд...",https://www.house.kg/details/412880561a4e0a6f0c683-69447520
+"3-комн. кв., 120 м2, 3 этаж из 12","Бишкек, 7 м-н, юнусалиева/шопена","$ 110 000,9 326 779 сом","Срочно продаю 3х ком квартиру с евро ремонтом. На 3 этаже из 12.
+Застройщик МегаСтрой
+ЖК Мега Сити
+Квадратура 120м2
+Все центральные коммуникации.
+Тех ...",https://www.house.kg/details/882580160ed252af23ce1-85658887
+"2-комн. кв., 60 м2, 2 этаж из 12","Бишкек, Филармония, Московская -Турусбекова","$ 57 500,4 875 362 сом","Прод 2-х к.квартиру с отличным ремонтом в районе филармонии Московская/турусбекова общая площадь-60 м2 2 этаж из 12 комуникации все центральные,тех па...",https://www.house.kg/details/88345660ed25151a9d49-86809465
+"3-комн. кв., 91 м2, 6 этаж из 12",Бишкек,"$ 75 000,6 359 168 сом","Срочно продаю 3х ком квартиру 
+Застройщик: «Ихлас»
+Жилой комплекс: «Ботанический Сад»
+Этаж 6 из 12
+Площадь: 91.11м2
+Окна выходят на ЮГ
+С отличным р...",https://www.house.kg/details/609100560ed2508e8e868-62882419
+"1-комн. кв., 46 м2, 6 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 39 500,3 349 162 сом","Срочно продаётся однокомнатная квартира в элитном микрорайоне Асанбай, южный центр столицы Ж/К АНГЛИЙСКОЙ КВАРТАЛ Застройщик НУР-ЗАМАН Высокое качеств...",https://www.house.kg/details/811907260ed24a3085bb9-64513587
+"Дом, 2-комн., 38 м2","Бишкек, 110 квартал ж/м, Темировская 28/Бурулдайский переулок","$ 32 000,2 713 245 сом","🌟Продаю уютный домик для небольшой семьи. С мебелью и техникой/частично. Свежий ремонт сделан полностью.👨‍🔧 Заходи и живи! 
+🌟Участок 7,5 соток + своя ...",https://www.house.kg/details/7410397614d8b65e7ef70-70503461
+"3-комн. кв., 122 м2, 11 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 93 000,7 885 368 сом","Срочно Продаю 3х ком кв 
+ на 11 этаже из 13- этажного дома +дизайнерский проект от 
+""Neo Style"" 
+с авторским надзором под ключ VIP пакет от надёжной с...",https://www.house.kg/details/817187960ed2439db7cb7-04988900
+"Участок, 7 соток","Бишкек, 110 квартал ж/м, Темировская 28/Бурулдайский переулок","$ 32 000,2 713 245 сом","❗Продаю участок 7,4 сотки в Бишкеке. Своя скважина - колонка, насос.
+❗К участку прилагается 🏡дом 38 кв.м с мебелью и техникой. 
+❗Также пристроено ново...",https://www.house.kg/details/942385361a9c057a20851-16712280
+"2-комн. кв., 60 м2, 2 этаж из 12","Бишкек, Филармония, московская/турусбекова","$ 57 500,4 875 362 сом","Прод 2-х к.квартиру с отличным ремонтом 
+в районе филармонии Московская/турусбекова 
+общая площадь-60 м2 
+2 этаж из 12 
+коммуникации все центральные, ...",https://www.house.kg/details/277734560ed23e536c896-79613488
+"1-комн. кв., 52 м2, 9 этаж из 9",Бишкек,"$ 30 160,2 557 233 сом","Продаётся 1к квартира среднем джал От СК ""НБК"" ЖК ""КОМФОРТ"" 9 этаж из 9+(10 этаж техн) Общая площадь 52м2 Сдача под ПСО 3 квартал 2021г. Цена 580$ за ...",https://www.house.kg/details/574168060ed239448c7d2-39320736
+"1-комн. кв., 41 м2, 9 этаж из 9","Бишкек, Достук, Ибраимова 181/1","$ 24 000,2 034 934 сом",,https://www.house.kg/details/46509261704082552963-11802121
+"1-комн. кв., 44 м2, 9 этаж из 12","Бишкек, Ахунбаева 2/8/Каралаева","$ 25 500,2 162 117 сом","Очень срочно Продаётся 1комнатная элитная квартира в новом элитном комплексе
+Монреаль грин, псо , площадь 44м² есть возможность переделать в двух комн...",https://www.house.kg/details/449313560fd1ad289af47-12298031
+"3-комн. кв., 91 м2, 6 этаж из 12",Бишкек,"$ 75 000,6 359 168 сом","Срочно продаю 3х ком квартиру 
+Застройщик: «Ихлас»
+Жилой комплекс: «Ботанический Сад»
+Этаж 6 из 12
+Площадь: 91.11м2
+Окна выходят на ЮГ
+С отличным р...",https://www.house.kg/details/159214960ed22e80372e3-27507510
+"2-комн. кв., 70.08 м2, 6 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 54 500,4 620 995 сом","📢Продаётся 2 комнатная квартира в шикарном районе, в жилом комплексе 
+""Английский квартал"" 
+От строительной компании ""Нурзаман"" Свежий воздух,  отличн...",https://www.house.kg/details/278172860ed22d84b9713-94362526
+"2-комн. кв., 60 м2, 2 этаж из 12","Бишкек, Филармония, Московская/Турусбекова","$ 57 500,4 875 362 сом","Прод 2-х к.квартиру с отличным ремонтом в районе филармонии Московская/турусбекова общая площадь-60 м2 
+2 этаж из 12 комуникации все центральные,тех п...",https://www.house.kg/details/304845160ed22bc949a98-05682535
+"2-комн. кв., 49 м2, 9 этаж из 9",Бишкек,"$ 49 000,4 154 656 сом","Срочно 
+Продаю 2х комнатную квартиру в жилом комплексе премиум класса «Ак Барс». 
+Застройщик: ГлавСтрой 
+Большой охраняемый двор, видеонаблюдение, све...",https://www.house.kg/details/260987660ed21f151b5c3-76562289
+"1-комн. кв., 45.77 м2, 3 этаж из 12","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 37 531,3 182 246 сом","📢Продаются 1 комнатная квартира
+В Элитом доме  с площадью 45,77 м2
+▪️ЖК: «Парк Авеню»
+▪️Застройщик: ""Эмарк Групп""
+▪️Этаж: 3 из 10 этажей
+▪️Адрес: Маги...",https://www.house.kg/details/424351360ed219c611e82-83530362
+"2-комн. кв., 70 м2, 3 этаж из 5","Бишкек, ЦУМ, правда 108а","$ 54 000,4 578 601 сом","Срочно продаю 2х ком кв в центре рядом Цум, Гум
+Индивидуальный проект 
+Этаж 3 
+Площадь: 70м2
+Ремонт+ мебель 
+Цена: 54000$ 
+Тел: 0550177770
+0500900955(...",https://www.house.kg/details/209584260ed213451db29-78009626
+"1-комн. кв., 42.4 м2, 12 этаж из 13","Бишкек, Госрегистр, пр. Чингиза Айтматова 4","$ 27 000,2 289 300 сом","Продаю 1 к  комнатную
+квартиру  Ихлас ПСО .
+Район Госрегистра 
+ул.Белинка Горького. 
+Рядом Азия Молл🌆
+Этаж 12 из 13 
+Квадратура: 42.4
+Застройщик ""Ихл...",https://www.house.kg/details/1868221615d664cf3d758-83643474
+"1-комн. кв., 46 м2, 4 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 59 000,5 002 545 сом","📢Продаются  1 комнатная квартира
+ ЖК ""Английский квартал"" Застройщик: ""Нурзаман"" 
+С площадью: 46 м2
+Этажность : 4/14 этажей
+В шикарном  районе, со све...",https://www.house.kg/details/856629760ed1f78d8c101-13864339
+"2-комн. кв., 63 м2, 3 этаж из 12",Бишкек,"$ 53 000,4 493 812 сом","Срочно продаю 2х комнатную квартиру с отличным ремонтом
+В центре, в шаговой доступности от ТРЦ Азия Молл
+ЖК ""Ботанический сад"" от застройщика Ихлас
+До...",https://www.house.kg/details/445679660ed1f15cc7729-43424895
+"3-комн. кв., 58 м2, 3 этаж из 5","Бишкек, 11 м-н","$ 47 500,4 027 473 сом","💥Продаётся 3-х комнатная квартира в 11 мкр. по старой дороге.
+📍 104 серия, 58 м².
+📍3 этаж из 5.
+📍 Лоджия утеплённая, расширена. 
+📍Не угловая. Без мебе...",https://www.house.kg/details/6286664615c14226141b1-20435455
+"Дом, 4-комн., 72 м2","Бишкек, Аламединский рынок, Рыбинская/Будённого","$ 32 000,2 713 245 сом","ПРОДАЁТСЯ 》пол/дома S-72m.,     уч-к 4 сотки, дом саман+кирпич,     4комн., двор брусчатка, окн.пл.,    сан.узел в доме...",https://www.house.kg/details/726122361019d26b25748-17104359
+"1-комн. кв., 37 м2, 8 этаж из 10",Бишкек,"$ 18 500,1 568 595 сом","Срочно продаю 1 комнатную квартиру 36.7м2, 8 этаж из 10 ПСО. 
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ ДОМА:
+☆Прочнейшая монолитно-кирпичная конструкция;
+☆Утепленны...",https://www.house.kg/details/490277460ed1db1a5aaa8-81727964
+"Дом, 4-комн., 57 м2",Бишкек/Тираспольская/Белгородская,"$ 32 000,2 713 245 сом","ПРОДАЁТСЯ   ДОМ В КИРКОМСТРОМЕ :                              Тираспольская/Белгородская         200 метров от трассы, уч-к 3.6сот. дом S -57m., 4комн...",https://www.house.kg/details/94796860f2ebbdd64927-41040869
+"3-комн. кв., 90 м2, 9 этаж из 10","Бишкек, КНУ, К. Акиева/Жумабека","$ 64 000,5 426 490 сом","🔥Срочно продаю 3х комнатную Элитную квартиру 🔥
+
+🔻Строй компания : Рояль констракшн 
+🔻Жилой комплекс : Мурас
+🔻Адрес : Фрунзе/Калык Акиева
+🔻Этажность : ...",https://www.house.kg/details/60039306125fde0c82436-47505514
+"Дом, 6 и более комнат, 272.6 м2","Бишкек, Баха, Валдайская","$ 245 000,20 773 281 сом","ПРОДАЁТСЯ:  дом 2 этажа+цоколь, общ.S-272.6 m., уч-к по гос.акту 5 соток, по факту 6 соток....",https://www.house.kg/details/89516746127d7836956b8-56687633
+"2-комн. кв., 43 м2, 4 этаж из 4","Бишкек, 5 м-н","$ 32 300,2 738 681 сом","Срочно продаю 2 комнатную квартиру 104с 4 этаж из 4 .
+Квартира не угловая состояние хорошее. 
+Адрес; 5мкр. 
+
+Цена 33000$.
+
+тн; 0702 39 12 13 вотсап. 
+...",https://www.house.kg/details/765262360ed1a5d45eac3-18062313
+"2-комн. кв., 47 м2, 5 этаж из 5","Бишкек, Восток-5 м-н","$ 36 500,3 094 795 сом","ПРОДАЁТСЯ: 2кв. 105с. в мкр. Восток-5, 5 этаж/из 5 не угловая, сан.узел разд.100%каф....",https://www.house.kg/details/80269361bff08042bf95-88743719
+"2-комн. кв., 72 м2, 12 этаж из 12",с. Кок-Джар,"$ 86 500,7 334 240 сом","Продаётся 2 комнатная квартира  Студия 
+С площадью 72 м2
+ЖК ""Парк Авеню"" 
+От застройщика: 
+""Эмарк Строй"" 
+Дом Премиум класса Этажность 12 из 12 Шикарн...",https://www.house.kg/details/92751756114d9a8b63326-71284956
+"1-комн. кв., 44 м2, 9 этаж из 12","Бишкек, Ахунбаева 2/8/Каралаева","$ 25 500,2 162 117 сом","Очень срочно Продаётся 1комнатная элитная квартира в новом элитном комплексе
+Монреаль грин, псо , площадь 44м² есть возможность переделать в двух комн...",https://www.house.kg/details/674492260fd19fb054669-71828809
+"3-комн. кв., 100 м2, 8 этаж из 10","Бишкек, Политех, Ахунбаева/Табалдиева","$ 66 500,5 638 462 сом","√Срочно продаётся 3х ком. кв.Элитка с ремонтом
+Квартира тёплая, очень светлая. Отличное месторасположение, хорошая инфраструктура, отличная транспортн...",https://www.house.kg/details/7277561138848b3adf8-75829108
+"2-комн. кв., 57 м2, 3 этаж из 7","Бишкек, АЮ Grand,  ул. Исакеева 18","$ 35 500,3 010 006 сом","Продаю 2х комнатную квартиру под ПСО, 106 улучшенная серия Этаж: 3 из 7, угловая, земля на красной книги, сдача ПСО через 10 дней, Преимущества объект...",https://www.house.kg/details/6946119614c40ed613c43-29453243
+"3-комн. кв., 91.11 м2, 6 этаж из 12",Бишкек,"$ 75 000,6 359 168 сом","Срочно продаю 3х ком квартиру 
+Застройщик: «Ихлас»
+Жилой комплекс: «Ботанический Сад»
+Этаж 6 из 12
+Площадь: 91.11м2
+Окна выходят на ЮГ
+С отличным р...",https://www.house.kg/details/358728860ed19f4c76030-69907827
+"3-комн. кв., 91 м2, 6 этаж из 12",Бишкек,"$ 75 000,6 359 168 сом","Срочно продаю 3х ком квартиру 
+Застройщик: «Ихлас»
+Жилой комплекс: «Ботанический Сад»
+Этаж 6 из 12
+Площадь: 91.11м2
+Окна выходят на ЮГ
+С отличным р...",https://www.house.kg/details/800045260ed19e05b5997-56800164
+"3-комн. кв., 58 м2, 1 этаж из 4","Бишкек, Парк Ататюрк","$ 42 500,3 603 528 сом","Срочно продается 3х ком кв. Чистая , светлая, аккуратная . Окна пластик, обои, линолеум. Сан узел кафель, сан техника вся остаётся. Кв без балкона +бо...",https://www.house.kg/details/588639760ed199a195157-35721197
+"2-комн. кв., 75 м2, 3 этаж из 13",Бишкек,"$ 54 500,4 620 995 сом","🔥Срочно продаю 2х комн Элитку!!! 🔥
+📌Застройщик : Zalkar 
+🔺Площадь: 75 кв.м 
+🔶Этаж: 3\13 ✔️
+❕Отопление: Центральное
+☘️Квартира находится рядом с парком...",https://www.house.kg/details/847084060ed1845b9f184-14430154
+"2-комн. кв., 68 м2, 7 этаж из 9",Бишкек,"$ 53 000,4 493 812 сом","Срочно продается 2х комнатная квартира от строительной компании""Ихлас""
+ЖК Анкара 28 С ремонтом.
+
+На 7 этаже из 10.
+Дом кирпичный.
+Все коммуникации цен...",https://www.house.kg/details/370076860ed17b2f2a707-22243892
+"3-комн. кв., 111 м2, 12 этаж из 13","Бишкек, 12 м-н, 12 мкрн 57/1","$ 79 000,6 698 323 сом","Продаю новую квартиру по южной магистрли под ПСО, центральное отопление и центральные коммуникации, цена 79000$, комнат 3, площадь 111 м2, этаж 12 из ...",https://www.house.kg/details/8728536144565a6d91a8-36489858
+"3-комн. кв., 104 м2, 12 этаж из 12","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 79 000,6 698 323 сом","Срочно продаётся 3х комнатная квартира ЖК «Парк Авеню» 104м2  ПСО
+Дом премиум класса в престижном районе, 
+С красивым панорамным видом на город, 
+Наде...",https://www.house.kg/details/477667260ed179a26cd23-58292640
+"1-комн. кв., 38 м2, 7 этаж из 10","Бишкек, Улан м-н","$ 34 000,2 882 823 сом","Срочно продаю 1 комнатную квартиру 38м2 на 7 этаже из 10. Квартира с ремонтом, не угловая, мебель и техника остаётся.  Все коммуникации центральные .
+...",https://www.house.kg/details/476078561bb31688183a8-97357520
+"1-комн. кв., 30 м2, 1 этаж из 5","Бишкек, Советская - Скрябина, Скрябина / Жукеева-Пудовкина","$ 25 500,2 162 117 сом","💥💥💥
+Очень срочно продаю 1-комнатную квартиру индивидуальной планировки по адресу Скрябина / Жукеева-Пудовкина.
+ 
+Кирпичный дом индивидуальной планиров...",https://www.house.kg/details/1523833615c132d279ca4-35411103
+"2-комн. кв., 41 м2, 4 этаж из 4","Бишкек, Космос, Панфилова/Малдыбаева","$ 31 500,2 670 850 сом","Срочно!!! Срочно!!! Срочно!!! Продается 2 комнатная квартира, в очень тихом и спокойном районе города, на пересечении улиц Панфилова и Малдыбаева, на ...",https://www.house.kg/details/337729861908e42198b89-25212803
+"3-комн. кв., 58 м2, 1 этаж из 4","Бишкек, Орозбекова  - Жибек-Жолу, Ж.Жолу/Панфилова","$ 38 000,3 221 978 сом","Срочно!!! Срочно!!! Срочно!!! Продается 3 комнатную квартиру, на 1 этаже, 4 этажного кирпичного дома, на пересечении улиц Жибек-Жолу и Панфилова, в ра...",https://www.house.kg/details/8067672618a58f9c5a278-81450231
+"2-комн. кв., 58 м2, 3 этаж из 14","Бишкек, Джал 15 м-н, Ахунбаева/Тыналиева","$ 34 000,2 882 823 сом","Срочно🔥🔥🔥 продаю 2х комнатную квартиру ПСО
+На Ахунбаева/Тыналиева Район нижний Джал 
+ЖК Джал-15  Застройщик""Ихлас""
+Все коммуникации центральные (отопл...",https://www.house.kg/details/926655860ed16a4f3f391-74446074
+"3-комн. кв., 57 м2, 4 этаж из 4","Бишкек, Душанбинка","$ 41 500,3 518 739 сом","Срочно!!! Срочно!!! Срочно!!! Продается 3 комнатная квартира, на 4 этаже, 4 этажного кирпичного дома, по улице Токтоналиева, чуть ниже Ахунбаева, в ра...",https://www.house.kg/details/307464261add3a6612148-68897653
+"1-комн. кв., 12 м2, 2 этаж из 5","Бишкек, Космос, Ахунбаева/Малдыбаева","$ 10 800,915 720 сом","Срочно!!! Продается комната гостиного типа, в районе ЦО ""Тартуга"", по улице Малдыбаева, чуть ниже Ахунбаева, секция на 5 хозяев, на 2 этаже, 5 этажног...",https://www.house.kg/details/6458412618c9a29abb574-59297860
+"1-комн. кв., 13 м2, 3 этаж из 5","Бишкек, Мед. академия, Ахунбаева/Абая","$ 10 800,915 720 сом","Срочно!!! Срочно!!! Срочно!!! Продается комната коридорного типа, на пересечении улиц Ахунбаева и Абая, на 3 этаже, 5 этажного дома, 13,1м2, в очень х...",https://www.house.kg/details/4774587619a3b5fc70072-70093159
+"1-комн. кв., 39 м2, 9 этаж из 12","Бишкек, Тунгуч м-н, Тунгуч 40","$ 27 000,2 289 300 сом","Продаетя 1 ком кв Тунгуч Ихлас ПСО, без ремонта, этаж 9/12 площадь 39кв2, тех паспорт на руках, красная книга, все коммуникации центральные, дом кирпи...",https://www.house.kg/details/8921287614aeed07b2942-34872949
+"1-комн. кв., 13 м2, 3 этаж из 5","Бишкек, БГУ, Ш.Руставели/Айни","$ 12 500,1 059 861 сом","Срочно!!! Продается большую и уютную комнату гостиного типа, Айни\Ш.Руставели, в районе БГУ, на 3 этаже, 5 этажного дома, секция на 2 хозяина, в хорош...",https://www.house.kg/details/57321466153e6f79f6305-19602373
+"1-комн. кв., 17 м2, 1 этаж из 5","Бишкек, Космос, Ахунбаева 20/Малдыбаева","$ 13 000,1 102 256 сом","Срочно!!! Продается комната гостиного типа, Ахунбаева\Малдыбаева, на 1 этаже, 5 этажного дома, секция на 6 хозяев, в хорошем состоянии!!!
+ 
+Описание...",https://www.house.kg/details/6686615615c2bd103d554-83924426
+"3-комн. кв., 65 м2, 8 этаж из 9","Бишкек, Тунгуч м-н","$ 42 500,3 603 528 сом",Срочно продаю в Тунгуче 3х комн 106 серии. 8-этаж из 9.Все коммуникации центральные. Квартира в хорошем состоянии заходи живи.Юридически чиста.Цена : ...,https://www.house.kg/details/3263773610260bf2de1b5-54209853
+"1-комн. кв., 22 м2, 1 этаж из 1","Бишкек, Рухий Мурас ж/м","$ 13 000,1 102 256 сом","Очень срочно!!! Продается 1 комнатная квартира барачного типа, кирпич, с удобствами, в жилом массиве ""Рухий-Мурас"", рядом с микрорайоном Тунгуч, новое...",https://www.house.kg/details/96034366153e5bae63e22-31534384
+"1-комн. кв., 18 м2, 4 этаж из 4","Бишкек, Ахунбаева/Абая","$ 13 000,1 102 256 сом","Очень срочно!!! Продается комната гостиного типа, по улице Абая, чуть ниже Ахунбаева, в районе СШ№ 61,  на 4 этаже, 4 этажного дома, коридорка, требуе...",https://www.house.kg/details/632638860f7e6c85b45a9-05634057
+"1-комн. кв., 42 м2, 9 этаж из 12","Бишкек, Физкультурный","$ 24 360,2 065 458 сом","Продается 1к квартира
+В районе ""Физкультурного Университета""
+Застройщик Ихлас
+ЖК Green Park
+Адрес: ул. Суванбердиева 110
+Площадь: 42м² 
+Этаж: 9 из 12
+...",https://www.house.kg/details/747721161484a96553497-25922882
+"2-комн. кв., 52 м2, 2 этаж из 9","Бишкек, 6 м-н","$ 47 500,4 027 473 сом","2шка 106 серии, 2/9 этаж, 52 кв.м, 6 мкр, неугловая, состояние хорошее, балкон застеклен, лоджия не застеклена. Цена 47500$, (0504)(777746), Эмирлан, ...",https://www.house.kg/details/21858276137240e989940-33965333
+"3-комн. кв., 113 м2, 8 этаж из 12","Бишкек, КНУ, Уметалиева/Жумабека","$ 61 585,5 221 724 сом","Срочно продаю 3 комнатную квартиру
+Площадь: 113м2
+Сквозная планировка
+8 этаж из 12
+СК Оомат
+ЖК Оомат+
+Под ПСО сдан
+50% живут 
+Все коммуникации централ...",https://www.house.kg/details/949355961499c6fc7b277-87557834
+"1-комн. кв., 18 м2, 3 этаж из 5","Бишкек, Ахунбаева/Панфилова","$ 13 500,1 144 650 сом","Продается комната гостиного типа, по улице Панфилова, чуть ниже Ахунбаева, в районе СШ№ 61, ЦО ""Тартуга"", на 3 этаже, 5 этажного дома, коридорка, в хо...",https://www.house.kg/details/8312824611a612782b159-22293399
+"2-комн. кв., 41 м2, 4 этаж из 4","Бишкек, Космос, Панфилова/Малдыбаева","$ 31 500,2 670 850 сом","Срочно!!! Срочно!!! Срочно!!! Продается 2 комнатная квартира, в очень тихом и спокойном районе города, на пересечении улиц Панфилова и Малдыбаева, на ...",https://www.house.kg/details/814024561af5184cd2bd9-87389182
+"1-комн. кв., 43 м2, 10 этаж из 12","Бишкек, Госрегистр, пр. Мира/Горького","$ 36 000,3 052 400 сом","Срочно! 
+Продаю 1комнатную квартиру 
+В новом доме 
+В центре города 
+По пр. МИРА/Горького 
+С отличным ремонтом 
+В квартире еще ни кто не жил. Квартира ...",https://www.house.kg/details/953709261274f46ddb533-42117699
+"1-комн. кв., 57 м2, 7 этаж из 11","Бишкек, Кок-Жар ж/м, Ахунбаева/Молдокулова","$ 30 500,2 586 061 сом","Срочно!!! Срочно!!! Продается 1 комнатная квартира в новом , кирпичном доме, сданном в эксплуатацию в 2021 году, в ж\м ""Кок-Жар"", в ж\к ""Кок-Жар +"", о...",https://www.house.kg/details/77479576167ee17954bf5-99483790
+"2-комн. кв., 61.93 м2, 9 этаж из 10","Бишкек, 12 м-н","$ 31 584,2 677 998 сом",,https://www.house.kg/details/445150060ed08422e7af1-76098563
+"1-комн. кв., 45.45 м2, 2 этаж из 3","Бишкек, Древесная 368","$ 21 500,1 822 961 сом","Очень срочно!!! Продается 1 комнатная квартира, 45,45м2м2,  на 2 этаже, в новом, строящемся трех.этажном жилом доме, от СК ""Датка Курулуш"", в ж\к ""Бер...",https://www.house.kg/details/56732526153e8b67f3983-46402661
+"1-комн. кв., 30 м2, 1 этаж из 3","Бишкек, Пишпек ж/м, Л.Толстого/Крылова","$ 23 500,1 992 539 сом","Срочно! Срочно!! Срочно!!! Продается 1 комнатная квартира, в районе Пишпека, на пересечении улиц Льва Толстого и Крылова, на 1 этаже, 3 этажного кирпи...",https://www.house.kg/details/502802860f177ce925255-36737601
+"2-комн. кв., 44 м2, 2 этаж из 4","Бишкек, 11 м-н","$ 37 500,3 179 584 сом","💥💥Срочно Продается 2 комнатная
+квартира 💥💥
+
+📌 104 серия
+📌Адрес:  11 мкр
+📍Этаж 2/4
+
+📍Площадь:  44кв.м  
+📍Все Коммуникации Центральные 
+
+✅ 2 комн.кв. в ...",https://www.house.kg/details/389910860ec1715d26923-12918716
+"3-комн. кв., 58 м2, 3 этаж из 4","Бишкек, 8 м-н, Жукеева-Пудовкина","$ 42 500,3 603 528 сом","📢Продаётся 3-х комн. квартира
+▪️104 серии, с площадью 58 м2 Не угловая, состояние среднее.Квартира пустая. Район: 8 мкрн., по Жукеева-ПудовкинаЭтажнос...",https://www.house.kg/details/18237461010ec2c576e5-91653435
+"1-комн. кв., 32 м2, 3 этаж из 4","Бишкек, Парк Ататюрк, Ахунбаева/Токтоналиева","$ 29 000,2 458 878 сом","Срочно!!! Продается 1 комнатная квартира, в очень хорошем районе, на пересечении улиц Ахунбаева и Токтоналиева, в районе парка ""Ата-Тюрк"", на 3 этаже,...",https://www.house.kg/details/48163306186371e8507f2-18693951
+"3-комн. кв., 80 м2, 4 этаж из 9","Бишкек, Асанбай м-н, Токомбаева 55/Куттыбаева","$ 68 000,5 765 645 сом","Продаю квартиру в самом престижном районе ,,Асанбай’’ 3-х.комнатная,106-серия,НЕугловая,4этаж из 9. Лоджии расширены,прихожая и ванная комната увеличе...",https://www.house.kg/details/424518260ec020416f832-93913016
+"1-комн. кв., 32 м2, 4 этаж из 5","Бишкек, БГУ, Гагарина/Мира","$ 32 000,2 713 245 сом","Срочно!!! Продается 1 комнатная квартира, на 4 этаже, 5 этажного дома индивидуальной планировки, в центре города, в районе БГУ, на пересечении улиц Га...",https://www.house.kg/details/887560761518d9287ab75-66887539
+"1-комн. кв., 35 м2, 3 этаж из 9","Бишкек, Джал-23 м-н (Нижний Джал), онтарио","$ 31 000,2 628 456 сом","Срочно!!! Продается 1 комнатная квартира, в микрорайоне Джал - 23 (Нижний Джал), в районе ЦО ""Ontario"", на 3 этаже, 9 этажного дома, 105 серии, в хоро...",https://www.house.kg/details/7135841615da7567b5cb1-24925311
+"Участок, 6 соток","Чолпон-Ата, Сон Коль 3","$ 12 000,1 017 467 сом",,https://www.house.kg/details/38058605f2591f693e5e2-89574291
+"2-комн. кв., 61 м2, 9 этаж из 10","Бишкек, 12 м-н","$ 32 330,2 741 225 сом","Срочно!?Продаю 2-комн.кв. 12мкр р-н Бетонка ЖД «Алтын-Казык» Застройщик: «КУТСТРОЙ» Сдача ПСО 2021 год 3 квартал Этажи: 9-10 Дом 2х подъездный ,кир...",https://www.house.kg/details/908860860ebfc1e812721-86768479
+"Дом, 6 и более комнат, 200 м2","Кызыл-Адыр, ЧОЛПОНБАЯ 92","$ 55 555,4 710 447 сом","ЦЕНА ДОГОВОРНАЯ 
+
++ ОТДЕЛЬНО 
+• 2 участка 16 соток ОГОРОД 
+• САД БОЛЬШОЙ
+
+Убедительная просьба Звонить в дневное время суток 
+
+ПО ЭТИМ НОМЕРАМ:
+0777 3...",https://www.house.kg/details/95505525e1865a7438552-48315064
+"Дом, 3-комн., 30 м2",с. Баш-Кара-Суу 1,"$ 38 555,3 269 036 сом",,https://www.house.kg/details/93314695f282f0cb4e1a5-37314890
+"2-комн. кв., 43 м2, 3 этаж из 4","Бишкек, Парк Ататюрк, ахунбаева 129","$ 36 000,3 052 400 сом","Срочно продаю 2х комнатную квартиру 
+По Ахунбаева, напротив парка Ата-Тюрк
+104 серия, этаж 3 из 5 
+Квартира не угловая, есть балкон
+Квартира  в хороше...",https://www.house.kg/details/116728260ebfba83e08d9-22253057
+"1-комн. кв., 38 м2, 2 этаж из 5","Бишкек, Б.Баатыра/Ю.Магистраль","$ 35 500,3 010 006 сом","Срочно!!! Продается большая и просторная 1 комнатная квартира, на 2 этаже, 5 этажного, кирпичного дома, индивидуальной планировки, в 8 микрорайоне, в ...",https://www.house.kg/details/447300560f4f89d44a183-98664475
+"Участок, 33 сотки",с. Арчалы,"$ 38 500,3 264 373 сом","ПРОДАЁТСЯ УЧАСТОК 33 сотки 
+ЧИСТЫЙ ВОЗДУХ
+КРАСНАЯ КНИГА...",https://www.house.kg/details/8175102619f3cfcc023b0-83292203
+"1-комн. кв., 45 м2, 6 этаж из 9","Бишкек, Кок-Жар ж/м, Ахунбаева/Молдокулова","$ 38 500,3 264 373 сом","Срочно!!! Продается 1 квартира, с шикарным ремонтом, в новом доме 2019 года постройки, от Строительной компании ""М Строй"", в ж\к ""Кок - Жар плюс"", на ...",https://www.house.kg/details/5582595611a5f6ca661f3-31236352
+"Дом, 2-комн., 25 м2",с. Баш-Кара-Суу 1,"$ 38 888,3 297 271 сом",Срочно продаётся дом с 2-мя участками...,https://www.house.kg/details/27144195eff335ddda9c8-97738433
+"1-комн. кв., 30 м2, 4 этаж из 5","Бишкек, Чуй - Алматинка","$ 29 500,2 501 273 сом","*Срочно продаётся 1 комнатная квартира в Востоке-5. Жилая площадь 30 м2. Очень удобное месторасположение для семейных, отличная транспортная развязка,...",https://www.house.kg/details/21215576114d8992408d7-75677897
+"1-комн. кв., 65 м2, 2 этаж из 9","Бишкек, Филармония, Чуй/Турусбекова","$ 63 000,5 341 701 сом","Продается добротная и шикарная квартира, с хорошим и дорогим ремонтом, на пересечении улиц: пр. Чуй и Турусбекова, в районе Филармонии, на 2 этаже, 9 ...",https://www.house.kg/details/666053961a9db73a485a5-53361067
+"2-комн. кв., 51 м2, 4 этаж из 5","Бишкек, Дворец спорта","$ 41 000,3 476 345 сом","Срочно!!! Срочно!!! Срочно!!! Продается 2 комнатная квартира, в Центре города, на пересечении улиц пр. Чуй и Исанова, на 4 этаже, 5 этажного дома инди...",https://www.house.kg/details/2879994615f09992eba61-78798716
+"2-комн. кв., 45 м2, 6 этаж из 9","Бишкек, Мед. академия, Ахунбаева/Тыныстанова","$ 46 500,3 942 684 сом","Срочно!!! Продается очень хорошая, очень теплая и добротная квартира, в районе Мед.Академии, на пересечении улиц Ахунбаева и Тыныстанова, на 6 этаже, ...",https://www.house.kg/details/42698636199bdae8e9ba8-92539835
+"2-комн. кв., 61 м2, 2 этаж из 10","Бишкек, 12 м-н","$ 38 200,3 238 936 сом","🔊🔊Срочно продаётся  2х комнатная ПОЛНОЦЕННАЯ  квартира ‼️ПСО 
+📍Район 12 мкр 
+🏢ЖК «Алтын Казык»
+🏗От застройщика Кут Строй
+✅2 комнатная полноценная квар...",https://www.house.kg/details/1112729615eb5cea73984-75572074
+"Коммерческая недвижимость, 32 м2","Бишкек, Джал-23 м-н (Нижний Джал), Ахунбаева/Тыналиева","$ 23 500,1 992 539 сом","Срочно! Срочно!! Срочно!!! Продается готовый офис в микрорайоне Джал - 23(Н.Джал), на пересечении улиц Ахунбаева и Тыналиева, в очень хорошем состояни...",https://www.house.kg/details/17158246199bbd01c2493-52448613
+"2-комн. кв., 90 м2, 1 этаж из 4","Бишкек, Мед. академия, Ахунбаева/Тыныстанова","$ 47 500,4 027 473 сом","Срочно!!! Продается 2 комнатная квартира+салон красоты, квартирка на 1 этаже, 4 этажного дома, на цокольном этаже салон красоты, с отдельным выходом, ...",https://www.house.kg/details/7087244612b0652e50df3-18429182
+"1-комн. кв., 24 м2, 1 этаж из 5","Бишкек, Гагарина, Тернопольская 8а/Циолковского","$ 16 500,1 399 017 сом",Продаю 1 к. квартиру 24м .кв.Тернопольская 8а 1/3 в среднем состоянии возмож обмен обмен на авто + доплата нам на обмен дороже тел 0995004554...,https://www.house.kg/details/39836460d3216ff39353-76879694
+"2-комн. кв., 67 м2, 5 этаж из 10","Бишкек, анкара 28","$ 47 800,4 052 909 сом","Продаётся 2х ком Квартира в ЖК ""Ихлас"" ул.Анкара,28 Этаж-5 из 10 + тех этаж Площадь: 65.4 кв.м. 2х комнатная Санузлы раздельный. Крытая территория и...",https://www.house.kg/details/720084060ebf956b13476-57848688
+"Коммерческая недвижимость, 120 м2","Бишкек, Аламединский рынок, Салиева/Айтматова","$ 78 000,6 613 534 сом","Продается готовый, действующий бизнес-комплекс, на пересечении улиц Салиева и Торокула Айтматова, на 4 сотках, со всеми документами и коммуникациями и...",https://www.house.kg/details/9018728617e455997ace2-05180623
+"3-комн. кв., 59 м2, цоколь из 10 этажей","Бишкек, 12 м-н, 12-м","$ 36 500,3 094 795 сом","Срочно!!! Продается 3 комнатная квартира, 12 микрорайоне, в районе Южная магистраль и Алма-Атинская, в новом доме 2014 года постройки, СК ""Азат курулу...",https://www.house.kg/details/860855061a9d9e7733c66-49666666
+"3-комн. кв., 58 м2, 3 этаж из 5","Бишкек, Молодая Гвардия, Боконбаева/К.Акиева","$ 49 500,4 197 051 сом","Срочно!!! Продается 3 комнатная квартира, на 3 этаже, 5 этажного дома 104 серии, на пересечении улиц Боконбаева и Калыка Акиева, в районе Тихого центр...",https://www.house.kg/details/7853367617e486d05d265-55711479
+"1-комн. кв., 47 м2, 5 этаж из 14","Бишкек, Магистраль, Байтик Баатыра (недалеко от Южных ворот)","$ 36 660,3 108 361 сом","Очень Срочно!!!
+Продаю 1к квартиру 
+ЖК Авангард Сити!🌃
+Застройщик Авангард Стиль
+Дом Бизнес Класса🏢
+Адрес: Советская/Юж.Магистраль
+Последняя Квартира ...",https://www.house.kg/details/9032919612f3935899ba8-81165010
+"3-комн. кв., 80 м2, 1 этаж из 12","Бишкек, ЖД вокзал, Панфилова/Чуйкова","$ 73 000,6 189 590 сом","Продается хорошая, добротная квартира, с капитальным ремонтом, на 1 этаже, 12-ти этажного жилого, элитного дома, в районе Золотого квадрата, на пересе...",https://www.house.kg/details/5673398616a4ace9243e8-93047797
+"3-комн. кв., 106 м2, 6 этаж из 12","Бишкек, Б.Баатыра/Горького","$ 120 000,10 174 668 сом","Продается 3 комнатная квартира, с очень хорошем и дорогим ремонтом, в центре города на пересечении улиц Горького и Байтик Баатыра, на 6 этаже, 12 этаж...",https://www.house.kg/details/821158160f7e988ea6916-75799482
+"5-комн. кв., 215 м2, 7 этаж из 7","Бишкек, Филармония, Исанова 98в/Рыскулова","$ 210 000,17 805 669 сом","Продаю шикарную 5 комнатную квартиру, пентхаус, 215м2, на 7 этаже, 7 этажного нового дома 2009 года постройки, от СК Боолбек ЛТД, по улице Исанова, в ...",https://www.house.kg/details/5948711615c28b70c5456-27824951
+"3-комн. кв., 90 м2, 6 этаж из 12",Бишкек,"$ 71 000,6 020 012 сом","🔥Срочно продаю 3х комн Элитку!!! 🔥
+📌Площадь: 90кв.м 
+❕Этаж: 6\12 
+🪟Окна: Север
+❗️ Застройщик: Ихлас ЖК: Бот сад 
+☑️Отопление: Центральное 
+🌿Развитая и...",https://www.house.kg/details/766485060ebda50897852-51697351
+"Дача, 3-комн., 58 м2",с. Исмаил,"$ 13 000,1 102 256 сом","Срочно!!! Продается дачный участок 5с. с хорошим 3 - х комнатным домом, за селом Исмаил, в районе Питомника, в очень хорошем состоянии!!!
+ 
+Описание...",https://www.house.kg/details/342722961b0a09a63d8d9-81226859
+"Дача, 2-комн., 40 м2",с. Уч-Эмчек,"$ 14 000,1 187 045 сом","Очень срочно!!! Продается небольшая дачка с подвалом на участке 5с., с горной речкой, в шикарном, очень зеленом  районе, за с. Горная Маевка, в поселк...",https://www.house.kg/details/421924761a9d4f71ff1b4-76757466
+"2-комн. кв., 44 м2, 1 этаж из 4","Бишкек, 4 м-н","$ 32 000,2 713 245 сом","💥💥Срочно Продается 2 комнатная
+квартира 💥💥
+
+📌 104 серия
+📌Адрес: 4 мкр 📍Этаж 1 из 4
+📍Площадь: 44 кв.м📍Средний ремонт 
+📍Все Коммуникации Центральные 
+
+✅...",https://www.house.kg/details/51804176135d176478cf2-74744872
+"Дом, 2-комн., 60 м2","Бишкек, Чуй - Алматинка, Абдумамунова/Алма-Атинская","$ 22 000,1 865 356 сом","Очень срочно!!! Продается пол.дома, на пересечении улиц Абдумомунова и Алма-Атинская, между микрорайоном Восток - 5 и Аламединским рынком, в хорошем, ...",https://www.house.kg/details/77169186199ba70667153-66587857
+"Дом, 6 и более комнат, 190 м2","с. Первомайское (Сокулукский р-н), с Первомайское","$ 65 000,5 511 279 сом","Очень срочно!!! Продается хороший, добротный, большой, немецкий дом в Сокулукском районе, в с. Первомайское, с большим участком, в отличном состоянии!...",https://www.house.kg/details/51276966131c32ca0ae78-48324218
+"Дом, 4-комн., 250 м2","Бишкек, Рабочий Городок, Гагарина/Асаналиева","$ 150 000,12 718 335 сом","Срочно!!! Продается очень добротный, ухоженный, компактный, но очень теплый и аккуратный особнячек, 2этажа + цоколь, в районе Рабочего городка, на пер...",https://www.house.kg/details/4896351618c97b28ef176-79203025
+"Дом, 5-комн., 250 м2","Бишкек, Киргизия 1 ж/м, мира/абдрахманова","$ 150 000,12 718 335 сом","Очень срочно!!! Продается хороший и добротный 2-х этажный + подвал, дом, в очень престижном и тихом, очень тихом районе города, район Киргизии - 1, 20...",https://www.house.kg/details/2561952617e43358426c8-64466834
+"2-комн. кв., 70 м2, 7 этаж из 11","Бишкек, Сквер Тоголок Молдо","$ 61 500,5 214 517 сом","🟢Срочно продаю 2 комн.квартиру, элитка, 70 кв.м. 7/11 этаж, 
+Боконбаев\Логвиненко, золотой квадрат, центр города. Новый и качественный ремонт. 
+Все ко...",https://www.house.kg/details/361608361654e5f26ad27-67511049
+"Участок, 70 соток","Бишкек, Алтын-Ордо ж/м, ж\м ""Алтын - Ордо""","$ 180 000,15 262 002 сом","Продается большой и перспективный участок в ж\м Алтын - Ордо, недалеко от ул. Анкара, со всеми коммуникациями + дом с удобствами!!!
+ 
+описание:
+ 
+...",https://www.house.kg/details/131793361618f8148b152-42177746
+"Дом, 5-комн., 350 м2","Сокулук, центр","$ 180 000,15 262 002 сом","Продается шикарный и очень добротный 3-х этажный особняк с подвалом, со всей обстановкой, в селе Сокулук, микрорайон Черемушки, в очень хорошем и спок...",https://www.house.kg/details/316818761a9d3e3e8e685-31690884
+"3-комн. кв., 74 м2, 7 этаж из 10",Бишкек,"$ 66 000,5 596 067 сом","Срочно!
+В продаже 3х комнатная квартира в самом центре города!
+Адрес: чуйкова/коенкозова(ориентир боконбаева/исанова, золотой квадрат!)
+Квартира со св...",https://www.house.kg/details/425587960ebd9a75e1141-62388439
+"Дом, 6 и более комнат, 360 м2","Бишкек, Арча-Бешик ж/м, ж\м Арча-Бешик","$ 190 000,16 109 891 сом","Продается 3-х этажный особняк в жил.массиве Арча-Бешик, две остановки от Южной магистрали, 300 метров от улицы Баха, 2016 г.п. в идеальном состоянии!
+...",https://www.house.kg/details/9032572616a4778bf0af3-56483013
+"Дом, 6 и более комнат, 70 м2","Бишкек, Джаманбаева/Токтоналиева","$ 220 000,18 653 558 сом","Продаю два дома на одном участке на пересечении улиц Душанбинская и Джаманбаева, в районе кинотеатра ""Чатыр-Куль"", гостинницы ""Саякат"", участок 7с. со...",https://www.house.kg/details/46813016131c155e21b64-47795894
+"3-комн. кв., 58 м2, 5 этаж из 5","Бишкек, 8 м-н/советская Магистраль","$ 44 500,3 773 106 сом",,https://www.house.kg/details/4114803615579cbe14959-07819135
+"Дом, 5-комн., 250 м2",Бишкек,"$ 350 000,29 676 115 сом","Продаю очень добротный, уютный и ухоженный 3-х этажный кирпичный дом, 2009 года постройки, в центре города, на пересечении улиц Уметалиева и Рыскулова...",https://www.house.kg/details/273025260f7e5c10483d6-26016469
+"Дом, 2-комн., 63 м2","Бишкек, Джальская больница","$ 48 000,4 069 867 сом","❗️Срочно продаётся 2-х комнатная квартира в элитном доме, с отличным свежим ремонтом!!!
+-Без посредников!
+-Район: Айни-Леваневского (университет Манас...",https://www.house.kg/details/32663906103b33675e618-64061736
+"Дом, 6 и более комнат, 360 м2","Бишкек, Арча-Бешик ж/м, ж\м Арча-Бешик","$ 190 000,16 109 891 сом","Продается 3-х этажный особняк в жил.массиве Арча-Бешик, две остановки от Южной магистрали, 300 метров от улицы Баха, 2016 г.п. в идеальном состоянии!
+...",https://www.house.kg/details/9032572616a4778bf0af3-56483013
+"Дом, 6 и более комнат, 70 м2","Бишкек, Джаманбаева/Токтоналиева","$ 220 000,18 653 558 сом","Продаю два дома на одном участке на пересечении улиц Душанбинская и Джаманбаева, в районе кинотеатра ""Чатыр-Куль"", гостинницы ""Саякат"", участок 7с. со...",https://www.house.kg/details/46813016131c155e21b64-47795894
+"3-комн. кв., 58 м2, 5 этаж из 5","Бишкек, 8 м-н/советская Магистраль","$ 44 500,3 773 106 сом",,https://www.house.kg/details/4114803615579cbe14959-07819135
+"Дом, 5-комн., 250 м2",Бишкек,"$ 350 000,29 676 115 сом","Продаю очень добротный, уютный и ухоженный 3-х этажный кирпичный дом, 2009 года постройки, в центре города, на пересечении улиц Уметалиева и Рыскулова...",https://www.house.kg/details/273025260f7e5c10483d6-26016469
+"Дом, 2-комн., 63 м2","Бишкек, Джальская больница","$ 48 000,4 069 867 сом","❗️Срочно продаётся 2-х комнатная квартира в элитном доме, с отличным свежим ремонтом!!!
+-Без посредников!
+-Район: Айни-Леваневского (университет Манас...",https://www.house.kg/details/32663906103b33675e618-64061736
+"1-комн. кв., 44 м2, 12 этаж из 12","Бишкек, Кок-Жар ж/м, Шабдан Баатыра/Медерова","$ 29 000,2 458 878 сом","🔥Срочно продаю 1х комн Элитку!!!🔥
+📌Площадь: 44 кв.м 
+❕Этаж: 12 из 13
+📍Адрес: 7 апреля д 129
+🔺Новый достроенный дом!
+❕Застройщик: Альфа Строй 
+❕ЖК ""Кок...",https://www.house.kg/details/379474360ebd966035fc0-77643326
+"2-комн. кв., 75 м2, 4 этаж из 12","Бишкек, Магистраль, Аалы Токомбаева","$ 48 750,4 133 459 сом","Продается 2х комнатная квартира под ПСО 
+Южной Части Города Бишкек
+Площадь: 75м²
+Этаж: 4 из 12
+Блок А 
+Жилой комплекс ""Тамир"" 
+микрорайоне Асанбай по ...",https://www.house.kg/details/463842260ebd902498666-26086601
+"3-комн. кв., 123 м2, 9 этаж из 14","Бишкек, Мед. академия","$ 125 000,10 598 613 сом","Продается 3х комнатная квартира
+ С Дизайнерским Евроремонтом
+расположенная по Советской, 
+на границе между центром и 
+южной частью города.
+Отличная тр...",https://www.house.kg/details/30898706163fc2d3eaa12-15371358
+"3-комн. кв., 104 м2, 10 этаж из 13","Бишкек, Ак Кеме","$ 93 000,7 885 368 сом","Продаю 3х ком квартиру 104м2 ( планировка сквозная)
+ЖК 'Ихлас Резиденс"" 
+10 этаж из 13 ПСО. 
+Центральные коммуникации, отопление автономное (газовая)....",https://www.house.kg/details/5759910610e4033268994-24472353
+"3-комн. кв., 90 м2, 6 этаж из 12",Бишкек,"$ 71 000,6 020 012 сом",,https://www.house.kg/details/731222660ebd87e94f618-82495127
+"Дом, 6 и более комнат, 180 м2","Бишкек, Мурас-Ордо ж/м, 2 ?/2","$ 40 000,3 391 556 сом","Срочно Срочно Срочно продаю Особняк 
+Адрес: Мурас Ордо. 
+Дом ПСО 
+6-соток 
+Площадь 180м² 
+1-этаж, Хол, Зал, Кухня, 2-Спальня. 
+2-этаж, Зал, 2-Спальня....",https://www.house.kg/details/10317616135d1027d4800-86120583
+"1-комн. кв., 43 м2, 12 этаж из 13","Бишкек, Госрегистр, пр. Чингиза Айтматова 4","$ 28 000,2 374 089 сом","🛑Продаю 1 к  комнатную🛑
+квартиру  Ихлас ПСО .
+Район Госрегистра 
+ул.Белинка Горького. 
+Рядом Азия Молл🌆
+🛑Этаж 12 из 13 🛑
+Квадратура: 42.4
+Застройщик ...",https://www.house.kg/details/614761361405f06b35925-64617319
+"1-комн. кв., 32 м2, 1 этаж из 4","Бишкек, 8 м-н, Байтик баатыра","$ 31 500,2 670 850 сом","🔥Срочно продается 1 ком.кв 
+📌 Район: 8 мкр по советской 
+📌Этажность: 1 из 4
+📌 104 серия 
+📌 С ремонтом
+📌Остается встроенная мебель +диван 
+💰31 500
+📞(07...",https://www.house.kg/details/791857761c46ae60ce829-26654947
+"3-комн. кв., 74 м2, 3 этаж из 9","Бишкек, Ак Эмир рынок","$ 53 500,4 536 206 сом","3-х комнатная квартира 106 серии. 
+Золотой квадрат 
+106 серии 3 из 9  
+площадь 74 м2  2 лоджии 
+центральная коммуникация 
+Требуетс ремонт 
+Адрес: Золо...",https://www.house.kg/details/334767361557962c58498-81625774
+"1-комн. кв., 45 м2, 10 этаж из 10",Бишкек,"$ 43 500,3 688 317 сом",,https://www.house.kg/details/932853160ebd7ffaef1d9-14462019
+"2-комн. кв., 60 м2, 3 этаж из 10","Бишкек, 12 м-н","$ 33 000,2 798 034 сом","Срочно!?Продаю 2-комн.кв. 12мкр р-н Бетонка ЖД «Алтын-Казык» Застройщик: «КУТСТРОЙ» Сдача ПСО 2021 год 3 квартал Этажи: 3-5 Дом 2х подъездный ,кирп...",https://www.house.kg/details/162608160ebd79a2bdee8-92735572
+"1-комн. кв., 41.46 м2, 11 этаж из 14","Бишкек, Джал 15 м-н, Ахунбаева/Тыналиева","$ 28 500,2 416 484 сом","Срочно продаётся 1 ком квартира под ПСО, в элитном доме Застройщик: Ихлас ЖК «Джал-Ихлас» Район: мкр Джал-15 Этаж: 11 из 14 Площадь: 41,46 Серия: Элит...",https://www.house.kg/details/4654665614d90486e6c99-27566954
+"1-комн. кв., 39 м2, 5 этаж из 12",Бишкек,"$ 34 500,2 925 217 сом","Срочно!?Продаю 1-комн.квартиру от строительной компании «Ихлас» в ЖК ""Ботанический сад"" Со свежим ремонтом На Горького/пр.Мира С площадью 39.35м2 , с ...",https://www.house.kg/details/162067660ebd702e74644-70676716
+"Дом, 4-комн., 70 м2","с. Новопавловка, Новопавловка","$ 50 000,4 239 445 сом","Срочно!!! Срочно!!! Срочно!!! 
+Продается Дом!!! Продается Дом!!! 
+4-ком!!! 4-ком!!! 4-ком!!! Участок 11 соток!!! Участок 11 соток!!! 
+Срочно!!! Продае...",https://www.house.kg/details/5826597614c3e72f1ece6-54623214
+"1-комн. кв., 44 м2, 3 этаж из 9","Бишкек, Кок-Жар ж/м","$ 31 500,2 670 850 сом",,https://www.house.kg/details/470744061025fa8640ad2-36296714
+"2-комн. кв., 66 м2, 7 этаж из 12","Бишкек, Ак Кеме","$ 62 500,5 299 306 сом","Срочно Продаю 2-ком квартиру
+ 
+🔸66 кв.м. • 7 этаж 12
+🔸Элитка
+🔸Адрес: район Ак Кеме
+
+🔸Все коммуникации центральные •  
+🔸Район с богатой инфраструктурой...",https://www.house.kg/details/997909061162950045690-75082681
+"1-комн. кв., 40 м2, 8 этаж из 10","Бишкек, КНУ","$ 32 000,2 713 245 сом",,https://www.house.kg/details/627206060f92348337722-12973917
+"3-комн. кв., 107 м2, 7 этаж из 12","Бишкек, Дворец спорта, Жибек-жолу/Коенкозова","$ 72 000,6 104 801 сом","Срочно продаю 3-комнатную квартиру в новом 
+ЖК ""Армада"" 
+от Застройщика ""KANAT Group""
+Адрес: Жибек-Жолу / Коенкозова *
+Квадратура 107 кв.м. Этажность:...",https://www.house.kg/details/2018862613873cb72af15-88733090
+"3-комн. кв., 90 м2, 6 этаж из 12",Бишкек,"$ 71 000,6 020 012 сом","🔥Срочно продаю 3х комн Элитку!!! 🔥
+📌Площадь: 90кв.м 
+❕Этаж: 6\12 
+🪟Окна: Север
+❗️ Застройщик: Ихлас ЖК: Бот сад 
+☑️Отопление: Центральное 
+🌿Развитая и...",https://www.house.kg/details/858839660ebd588720955-60614830
+"2-комн. кв., 44 м2, 12 этаж из 12","Бишкек, Кок-Жар ж/м, Шабдан Баатыра/Медерова","$ 29 000,2 458 878 сом","🔥Срочно продаю 2х комн Элитку!!!🔥
+📌Площадь: 44 кв.м 
+❕Этаж: 12 из 13
+📍Адрес: 7 апреля д 129
+🔺Новый достроенный дом!
+🔶Дом построен из кирпича!
+❕Планиро...",https://www.house.kg/details/115582060ebd54b7d89c3-73839349
+"1-комн. кв., 40 м2, 10 этаж из 12","Бишкек, жумабека 233","$ 36 500,3 094 795 сом","Срочно продаю 1 комнатную квартиру
+40м2 10 этаж из 12
+СК Оомат
+Адрес: Уметалиева#Фрунзе
+Все коммуникации центральные
+Цена: 36500$
+Звоните:
+0701 66 66 ...",https://www.house.kg/details/26184660f9231322f3b9-98715395
+"1-комн. кв., 42 м2, 7 этаж из 12","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 34 500,2 925 217 сом","Продаётся одна комнатная  квартира в новом элитном комплексе Парк авеню в микрорайоне Асанбай
+Застройщик Эмарк групп, площадь 42м²
+Этаж 7 из 12 плюс т...",https://www.house.kg/details/6792438612c94440682e3-84442691
+"1-комн. кв., 50 м2, 1 этаж из 9",Бишкек,"$ 36 000,3 052 400 сом","Срочно! Срочно! Срочно!Продаю 1- комнатную квартиру в новом жилом комплексе ""Ала-Тоо"", в микрорайоне Тунгуч. Квартира с шикарным ремонтом. Коммуникаци...",https://www.house.kg/details/736314960ebd50e3b17d8-72979626
+"3-комн. кв., 77 м2, 9 этаж из 14","Бишкек, Кок-Жар м-н, мкр. Кок Жар","$ 34 650,2 937 935 сом","🔊🔊🔊Срочно продаю 3 комнатную студию квартиру в жилом комплексе «Ала ТОО»  от строй компании «Elegance»
+📍Жилой комплекс ""Ала-тоо"" расположен в верхней ...",https://www.house.kg/details/421050261405e15287294-70354390
+"3-комн. кв., 79 м2, 7 этаж из 14","Бишкек, Джальская больница","$ 107 000,9 072 412 сом","Срочно продаётся 3х комнатная квартира район Джал.
+🏩От надёжного застройщика Имарат Строй 
+👉ЖК Алтын Булак
+☘ площадью 106м²
+👉этаж 7 из 12
+Адрес: Тынал...",https://www.house.kg/details/85186006163fad0376152-52854379
+"1-комн. кв., 32 м2, 5 этаж из 5","Бишкек, 8 м-н, советская- южная магистраль","$ 30 000,2 543 667 сом","📢Продаётся 1 комнатная квартира 104 серии с площадью 32 м2, 
+▪️В районе: 8 мкр, Советская-Южная Магистраль, 
+Этажность: 5/5, 
+новая крыша, не угловая,...",https://www.house.kg/details/543409060ebd3a63a8df5-21105492
+"2-комн. кв., 62 м2, 8 этаж из 13",Бишкек,"$ 76 000,6 443 956 сом","Очень Срочно🔥
+Продаётся 2х комнатная квартира Бизнес Класса!!!
+Золотой Квадрат
+Дом Находится на улице Сыдыкова (сзади торгового центра Караван).
+Застр...",https://www.house.kg/details/553128660ebd341a01827-60250643
+"1-комн. кв., 44 м2, 2 этаж из 9",Бишкек,"$ 37 500,3 179 584 сом","Срочно ‼️‼️‼️‼️‼️‼️Продаётся совершено с новым ремонтом
+Абсолютно новой мебелью 
+1 ком квартира 44м2
+Со всеми удобствами Коммуникации все Центральные ...",https://www.house.kg/details/814785360ebd32f659dc9-55137334
+"2-комн. кв., 43 м2, 12 этаж из 13","Бишкек, Госрегистр, пр. Чингиза Айтматова 4","$ 28 000,2 374 089 сом","🛑Продаю 1 к  комнатную🛑
+квартиру  Ихлас ПСО .
+Район Госрегистра 
+ул.Белинка Горького. 
+Рядом Азия Молл🌆
+🛑Этаж 12 из 13 🛑
+Квадратура: 42.4
+Застройщик ...",https://www.house.kg/details/587151361405dee36d485-33521847
+"Дом, 4-комн., 90 м2","Бишкек, Ала-Тоо м-н, Эркин Тоо","$ 33 000,2 798 034 сом",Срочно!!! Срочно!!! Срочно!!! Продается участок!!! Продается участок!!! Продается Дом!!! Продается Дом!!! 4-ком!!!! 4-ком!!! 4-ком!!! Срочно!!! Продае...,https://www.house.kg/details/4859257614d8f30dd3403-67471046
+"2-комн. кв., 76.33 м2, 12 этаж из 12","Бишкек, Ахунбаева (Бот. Сад)","$ 53 431,4 530 356 сом","🛑Срочно продаю 2 комнатную квартиру в элитном жилом комплексе «Montreal Green» относящийся к категории комфорт💫
+📍Прекрасное месторасположение : Ахунба...",https://www.house.kg/details/3434414613f0c0ba63ec9-04105484
+"3-комн. кв., 113 м2, 2 этаж из 12","Бишкек, КНУ, Уметалиева/Жумабека","$ 66 670,5 652 876 сом","🔥🔥🔥Очень срочно продаю трехкомнатную квартиру под ПСО в жилом комлексе ""Оомат Плюс"".🏢
+📍 Жумабека 233/ Уметалиева 3-подъезд
+‼️2из 12
+🔥Высококачественны...",https://www.house.kg/details/2865478616a91fd338a65-58695422
+"3-комн. кв., 122 м2, 5 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 92 000,7 800 579 сом","Продаю 3к квартиру
+ЖК ""Английский Квартал"" 
+Застройщик ""НУРЗАМАН""
+🔸 Площадь 122,4м²
+🔸3 комнат
+🔸Высота Потолков 3,20м
+🔸Этаж 5 из 14
+🔸Квартира под ПСО
+🔸...",https://www.house.kg/details/822840960ebd22d45f4a4-10577112
+"3-комн. кв., 116 м2, 7 этаж из 17","Бишкек, Карпинка, Фрунзе 300/3/Гоголя","$ 102 080,8 655 251 сом","✅Срочно Продается 3 комнатная квартира 
+
+▫️ЖК « Империал» Дом Премиум Класса ▫️Адрес: Фрунзе/Гоголя 
+▫️Этаж 7/17 
+▫️Площадь: 116м² 
+
+✅Все Коммуникации...",https://www.house.kg/details/66513026135cfcff10389-09713455
+"2-комн. кв., 70 м2, 6 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 54 500,4 620 995 сом","Продаётся 2 комнатная квартира в шикарном районе, в жилом комплексе 
+""Английский квартал"" 
+От строительной компании ""Нурзаман"" Свежий воздух,  отличны...",https://www.house.kg/details/145328560ebd21ebf5390-86691002
+"1-комн. кв., 32 м2, 1 этаж из 4","Бишкек, 8 м-н, Саманчина/Жукеева-Пудовкина","$ 28 000,2 374 089 сом","Продаю 1-к квартиру 104-серии, 8мкр, 1/4 этаж, без балкона. Состояние среднее. Окна, межкомн двери деревянные. В ванной трубы и стояк пластиковые....",https://www.house.kg/details/536622261c59f998b4b92-85583212
+"1-комн. кв., 42 м2, 12 этаж из 13","Бишкек, Госрегистр, пр. Чингиза Айтматова 4","$ 28 000,2 374 089 сом","🛑Продаю 1 к  комнатную🛑
+квартиру  Ихлас ПСО .
+Район Госрегистра 
+ул.Белинка Горького. 
+Рядом Азия Молл🌆
+🛑Этаж 12 из 13 🛑
+Квадратура: 42.4
+Застройщик ...",https://www.house.kg/details/753090461405dac7a0706-71735706
+"2-комн. кв., 43 м2, 5 этаж из 5","Бишкек, Московская - Уметалиева, Уметалиева/Чокморова","$ 40 000,3 391 556 сом",Продаю 2кв 104-с. в центре Уметалиева/Чокморова. Этаж 5/5. Балкон застеклен. Состояние хорошее. Мебель частично остается. Стоимость 40000$. Собственни...,https://www.house.kg/details/272714461c5a1d97055e5-78609889
+"2-комн. кв., 88 м2, 10 этаж из 10","Бишкек, 7 м-н","$ 72 200,6 121 759 сом","Срочно продаю 2-комнатную квартиру в элитном жилом доме ""Мега Сити"" Адрес: 7 мкр. 88 кв.м. 10 этаж из 11 (панорамный вид на центр города и горы) Год п...",https://www.house.kg/details/141406060ebd19b94bdc3-74708699
+"2-комн. кв., 62 м2, 8 этаж из 13","Бишкек, Сыдыкова","$ 76 000,6 443 956 сом","Очень Срочно🔥
+Продаётся 2х комнатная квартира Бизнес Класса!!!
+Золотой Квадрат
+Дом Находится на улице Сыдыкова (сзади торгового центра Караван).
+Застр...",https://www.house.kg/details/675777260ebd13478e561-67509829
+"1-комн. кв., 24 м2, 1 этаж из 3","Бишкек, Аламединский рынок, Ул.Древесная 368","$ 17 500,1 483 806 сом","рочно продаю квартиру, индивидуальная планировка
+Электрическое отопление
+Студия.
+Площадь: 24
+С ремонтом
+Этажность 1/3
+Район: старый автовокзал.
+Завод ...",https://www.house.kg/details/5844263613c67f27ca004-40074571
+"2-комн. кв., 62 м2, 9 этаж из 12","Бишкек, Госрегистр","$ 45 500,3 857 895 сом","Срочно продаю 2х ком квартиру 
+Ихлас Ботсад 
+9 этаж из 12
+Площадь: 62м2
+ПСО 
+Лифт работает 
+Тех.паспорт через месяц 
+Окна выходят на ЮГ
+Отличный район...",https://www.house.kg/details/846604061025edb91fba3-05131487
+"2-комн. кв., 72 м2, 8 этаж из 12","Бишкек, ахунбаева 165","$ 50 000,4 239 445 сом","Срочно продаю 2х ком квартиру 
+Застройщик: Залкар строй
+Площадь: 71,7
+Этаж 8 из 13
+ПСО
+Лифт работает 
+Ком. Все центральное 
+Первая линия, хорошая марш...",https://www.house.kg/details/808797560ebd1277173f3-34999562
+"Коммерческая недвижимость, 80 м2","Бишкек, Бишкек-Парк, Боконбаева Уметалиева","$ 112 000,9 496 357 сом","Продаю офис под псо в самом центре города 
+От надёжного застройщика: ""CAP STROY"" ЖК бизнес класса ""Centrium Residents""
+ Адрес: Боконбаева/Турусбекова ...",https://www.house.kg/details/122932061b88b28f087c7-35941312
+"2-комн. кв., 44 м2, 1 этаж из 4","Бишкек, Центральная мечеть, гоголя/боконбаева","$ 34 500,2 925 217 сом","🔥Срочно продается 2-х комнатная квартира 
+📌104 серии 
+📌1 этаж из 4
+📌Площадь 43 м2
+📌С лоджией
+📌Район: Гоголя/Боконбаева 
+📌Отличное месторасположение, в...",https://www.house.kg/details/624642661c4694eb89f89-52135326
+"1-комн. кв., 38 м2, 6 этаж из 8","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 32 500,2 755 639 сом","Срочно продается 1 комнатная квартира ПСО, площадью 38 м2, этаж 6 из 10 в ЖК Асанбай Ордо который расположен в микрорайоне Асанбай, в экологически бла...",https://www.house.kg/details/514006160ebd0b2378762-53245637
+"2-комн. кв., 48 м2, 3 этаж из 5","Бишкек, Верхний Джал м-н","$ 40 500,3 433 950 сом",,https://www.house.kg/details/517202760fe696d6aef60-61620116
+"1-комн. кв., 42 м2, 11 этаж из 12","Бишкек, Госрегистр, пр. Чингиза Айтматова 4","$ 28 000,2 374 089 сом","🛑Продаю 1 к  комнатную🛑
+квартиру  Ихлас ПСО .
+Район Госрегистра 
+ул.Белинка Горького. 
+Рядом Азия Молл🌆
+🛑Этаж 12 из 13 🛑
+Квадратура: 42.4
+Застройщик ...",https://www.house.kg/details/455574161405d52dee404-07538190
+"3-комн. кв., 58 м2, 4 этаж из 5","Бишкек, Центральная мечеть","$ 40 500,3 433 950 сом","Продается 3к Квартира 104серии
+Район Центральной Мечети 🕌
+Адрес: Боконбаева/Гоголя
+Всё В Шаговой Доступности!!!
+Состояние Обычное!!!
+Тех Паспорт 🧾
+⚜️ ...",https://www.house.kg/details/984999160ebd0a3db1344-90505236
+"3-комн. кв., 69 м2, 8 этаж из 12","Бишкек, Уметалиева 124/Шевченко","$ 46 500,3 942 684 сом","Срочно !!!! Горящая цена!!! Продаётся 3 комнатная квартира. 69м2  
+В новом доме, от застройщика: ООМАТ.
+Сделан ремонт под ключ. Район: Уметалиева/ Шев...",https://www.house.kg/details/483632160ebd04ad46106-91466322
+"2-комн. кв., 78 м2, 2 этаж из 10","Бишкек, КНУ,  ул. Жумабека 219","$ 45 000,3 815 501 сом","Срочно 2 к квартиру 78.9м2 этаж 2/10. Ул. Чолпон атинская напротив Милицейской академии, «Гранд Сити» . В эксплуатацию дом сдан . Есть техпаспорт.все ...",https://www.house.kg/details/8103838613c678e443a26-29729061
+"2-комн. кв., 44 м2, 3 этаж из 4","Бишкек, Парк Ататюрк","$ 36 500,3 094 795 сом","💥💥Срочно Продается 2 комнатная
+квартира 💥💥
+
+📌 104 серия
+📌Адрес:  Ахунбабаева
+📍Этаж 3/4
+
+📍Площадь: 44кв.и  
+📍С ремонтом 
+📍Все Коммуникации Центральные ...",https://www.house.kg/details/27729256135cf514eda87-43657314
+"Дом, 1-комн., 18 м2","Кара-Балта, 40лет Киргизии 36а/Пушкина","$ 14 500,1 229 439 сом",Срочно продаю недостроенный дом в Карабалте участок 15 соток...,https://www.house.kg/details/8325044617c21e92a46c3-34137662
+"Участок, 15 соток","Кара-Балта, Новониколаевка","$ 15 000,1 271 834 сом",Срочно продаю участок в Кара балте р-н Новониколаевка участок 15соток построен дом 2020. Без ремонта...,https://www.house.kg/details/8100313616c5746568243-61502575
+"2-комн. кв., 57 м2, 6 этаж из 10","Бишкек, Старый аэропорт","$ 60 000,5 087 334 сом","Продаю 2к квартиру студию  ЖК Магнат!  Евроремонт
+Застройщик CapStroy Kg! 
+✴️Квадратура 57,5 м² 
+✴️Этаж 6 из 10! 
+✴️ Дизайнерский Ремонт
+✴️Лифт Подклю...",https://www.house.kg/details/7591781612f37140c2b64-03666967
+"1-комн. кв., 61 м2, 1 этаж из 5","Бишкек, досук о/ул","$ 31 000,2 628 456 сом","Продается квартира 
+Одна комнатная 61кв м 
+Город: Бишкек район: Первомайская 
+Этаж: 1 
+Отопления: электрические\
+Особенности :вход .дверь бронированны...",https://www.house.kg/details/151983861a8b859134791-59765577
+"2-комн. кв., 74 м2, 5 этаж из 12","Бишкек, ЖД вокзал, Панфилова 55/Боконбаева","$ 63 000,5 341 701 сом","Продаётся 2х комнатная квартира в новом элитном доме в золотом квадрате
+Боконбаева/Панфилова, рядом школы, детские сады, парк Дзержинского, кофейни, о...",https://www.house.kg/details/578195460fe6948326a13-46451584
+"2-комн. кв., 50 м2, 9 этаж из 12","Бишкек, КНУ, Уметалиева/Абдымомунова","$ 44 500,3 773 106 сом",Продается двухкомнатная квартира переделанная из студийной двушки площадью 50м² этаж 9 из 12 коммуникации все центральные Адрес Уметалиева / Абдымомун...,https://www.house.kg/details/5573242612357b068f1e1-61271526
+"3-комн. кв., 111 м2, 12 этаж из 13","Бишкек, 12 м-н","$ 79 000,6 698 323 сом","Продаю новую квартиру по южной магистрли под ПСО, центральное отопление и центральные коммуникации, цена 79 000, комнат 3, площадь 111 м2, этаж 12 из ...",https://www.house.kg/details/89199456141aeb125f2f9-95642169
+"1-комн. кв., 49 м2, 4 этаж из 10","Бишкек, Азия Молл","$ 42 000,3 561 134 сом","id: 3958
+Продается 1 комнат. кв.,студия, 49 м2, 4\10 эт.
+(0701)(774-077) Кубат\ ВатсАпп. id: 3958
+
+На проспекте Ч.Айтматова(район Азия-Молл) Элитка, 
+...",https://www.house.kg/details/290420161924f412c6b16-62387759
+"1-комн. кв., 44 м2, 9 этаж из 12","Бишкек, Ахунбаева 2/8/Каралаева","$ 25 500,2 162 117 сом","Очень срочно Продаётся 1комнатная элитная квартира в новом элитном комплексе
+Монреаль грин, псо , площадь 44м² есть возможность переделать в двух комн...",https://www.house.kg/details/722629560fd177088a167-36492077
+"Дом, 4-комн., 78 м2","с. Новопавловка, Гагарина 141/Баетова пересекает Гагарина.       Гоголя пересекает Гагарина.","$ 43 000,3 645 923 сом","Продаю дом  Новопавловка ул . Гагарина дом 141.
+В доме: сан узел, душевая кабина. 
+Отопление: электро, твердое топливо, теплые полы. 
+Двор : крытый, б...",https://www.house.kg/details/711642460fc575df20010-42404546
+"3-комн. кв., 62 м2, 5 этаж из 5","Бишкек, 10 м-н","$ 45 500,3 857 895 сом",,https://www.house.kg/details/714930761289e2421a6d1-06323655
+"3-комн. кв., 90 м2, 9 этаж из 10","Бишкек, КНУ, К. Акиева/Жумабека","$ 64 000,5 426 490 сом","🔥Срочно продаю 3х комнатную Элитную квартиру 🔥
+
+🔻Строй компания : Рояль констракшн 
+🔻Жилой комплекс : Мурас
+🔻Адрес : Фрунзе/Калык Акиева
+🔻Этажность : ...",https://www.house.kg/details/52083116125fa586bd904-73275269
+"1-комн. кв., 50 м2, 12 этаж из 14","Бишкек, Кок-Жар ж/м","$ 26 500,2 246 906 сом","Продаю 1 комнатную квартиру,адресс Кок Жар Молдокулова/Куйручук,
+Застройщик СК ""KG GROUP"" 
+площадь 50.мкв 
+12/13,этаже в новом доме. Псо, отопления эл...",https://www.house.kg/details/460789560ebceb2974072-74218120
+"2-комн. кв., 67 м2, 7 этаж из 10","Бишкек, Магистраль, Токомбаева 27/4, 27/5","$ 60 000,5 087 334 сом","СРОЧНО продаю 2-х комнатную квартиру, переделанную в трёшку. Студия. 
+Дизайнерский, свежий ремонт. Мы первые хозяева, живем всего 3 года. Дом находитс...",https://www.house.kg/details/93338036152d35099a465-50551316
+"3-комн. кв., 85 м2, 2 этаж из 9","Бишкек, Кок-Жар ж/м, Шоокум/Ахунбаева","$ 55 250,4 684 587 сом","Продаётся 3 комнатная квартира 
+ЖК ""Family house"" Застройщик:
+ Мунара Строй
+Площадь: 85 м2
+Состояние: ПСО
+Этажность: 2 из 10
+Коммуникации центральные ...",https://www.house.kg/details/17367726125fa38661408-94962683
+"3-комн. кв., 122 м2, 5 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 92 000,7 800 579 сом","Продаю 3к квартиру
+ЖК ""Английский Квартал"" 
+Застройщик ""НУРЗАМАН""
+🔸 Площадь 122,4м²
+🔸3 комнат
+🔸Высота Потолков 3,20м
+🔸Этаж 5 из 14
+🔸Квартира под ПСО
+🔸...",https://www.house.kg/details/53051260ebcde78f2fc9-66694413
+"3-комн. кв., 112 м2, 13 этаж из 14","Бишкек, Магистраль, пр-т Ч. Айтматова/А. Масалиева","$ 73 920,6 267 595 сом","Срочно Продается 
+3х комнатная квартира
+Юж.Магистраль/Пр.Мира
+Район  ТРЦ Ала Арча
+Застройщик Ихлас
+Жилой Комплекс 
+*Южный Квартал*
+Площадь: 112²
+Этаж:...",https://www.house.kg/details/6848971611a1c5ed46893-67654766
+"3-комн. кв., 62 м2, 5 этаж из 5","Бишкек, Восток-5 м-н","$ 46 000,3 900 289 сом","id: 4036
+
+✅Продается 3-ком. кв., 5/5 эт., 105 серия, 62 м², утепленная, угловая 
+☎️Тел.: (0701)(774-077) Кубат \ВатсАпп. id: 4036 
+
+✅Микрорайон Восток...",https://www.house.kg/details/578232361812c2cb1f495-23068217
+"1-комн. кв., 46 м2, 4 этаж из 9","Бишкек, Магистраль/пр Мира","$ 28 500,2 416 484 сом","🔥Срочно продаю 1комн квартиру под ПСО!!!
+
+📌Площадь:  46м
+
+📌Элитка. Молодёжный квартал 
+
+📍Этаж: 4/9
+
+📍Адрес: Жилой комплекс «Молодежный KVARTAL»
+
+✅ Неу...",https://www.house.kg/details/972406560ebcc5d31fbb4-59255057
+"3-комн. кв., 64 м2, 4 этаж из 9","Бишкек, Асанбай м-н","$ 56 500,4 790 573 сом","🔵Срочно Продаю  3- ком квартиру 
+ 
+🔹 64 кв.м. • 4 этаж из 9
+🔹 106 серия
+🔹Адрес: Асанбай 
+🔹Все коммуникации центральные
+🔹Район с богатой инфраструктуро...",https://www.house.kg/details/57831366135ce8cb30328-08322148
+"2-комн. кв., 65 м2, 10 этаж из 10","Бишкек, КНУ","$ 33 500,2 840 428 сом","Продаю 2х комнатную квартиру
+ЖК ""МУРАС""
+СК ""ROYAL CONSTRUCTION""
+Адрес: Калык Акиева/Фрунзе
+Квадратура: 65м²
+Этаж: 10 из 10 ПСО
+Готовый блок можно начи...",https://www.house.kg/details/3580557614997db4543a9-75058069
+"2-комн. кв., 62 м2, 8 этаж из 13",Бишкек,"$ 76 000,6 443 956 сом",,https://www.house.kg/details/515732960ebcc4ec2e926-07869394
+"2-комн. кв., 65 м2, 5 этаж из 10",Бишкек,"$ 47 900,4 061 388 сом","Продаётся 2х ком Квартира в ЖК ""Ихлас"" ул.Анкара,28 Этаж-5 из 10 + тех этаж Площадь: 65.4 кв.м. 2х комнатная Санузлы раздельный. Крытая территория и...",https://www.house.kg/details/846645860ebcbe1cc4ca5-88606953
+"2-комн. кв., 58 м2, 8 этаж из 13","Бишкек, 12 м-н","$ 36 800,3 120 232 сом",,https://www.house.kg/details/488467260ebc91160b349-72545292
+"3-комн. кв., 64 м2, 8 этаж из 9","Бишкек, Верхний Джал м-н, Верхний Джал","$ 50 000,4 239 445 сом","Продаю 3-х комнатную квартиру Район: В верхнем Джал Серия: 106 Площадь: 64м2 Этаж: 8 из 9 Квартира в хорошем состоянии, 2 застекленные лоджии, санузел...",https://www.house.kg/details/9357680614997bcd815c1-86465729
+"3-комн. кв., 122 м2, 5 этаж из 14","Бишкек, Магистраль, Сухэ-Батора/Токомбаева","$ 92 000,7 800 579 сом",,https://www.house.kg/details/565355960ebc8a1b1ef41-41208799
+"2-комн. кв., 65 м2, 8 этаж из 9","Бишкек, АЮ Grand","$ 43 000,3 645 923 сом","Продаётся 2-комн. элитка в мкр. Тунгуч возле Аю Гранд на ул.Исакеева в ЖК Ала-Тоо.
+- 65 м2, 8/9эт (9ый технический).
+- нормальное состояние квартиры.
+...",https://www.house.kg/details/4824422614845d0353570-44426848
+"2-комн. кв., 58 м2, 3 этаж из 14","Бишкек, Джал 15 м-н, Ахунбаева/Тыналиева","$ 34 000,2 882 823 сом","Срочно🔥🔥🔥 продаю 2х комнатную квартиру ПСО
+На Ахунбаева/Тыналиева Район нижний Джал 
+ЖК Джал-15  Застройщик""Ихлас""
+Все коммуникации центральные (отопл...",https://www.house.kg/details/456189760ed42a93473c3-46246896
+"2-комн. кв., 74 м2, 5 этаж из 12","Бишкек, ЖД вокзал, Панфилова 55/Боконбаева","$ 63 000,5 341 701 сом","Продаётся 2х комнатная квартира в новом элитном доме в золотом квадрате
+Боконбаева/Панфилова, рядом школы, детские сады, парк Дзержинского, кофейни, о...",https://www.house.kg/details/417977860fe689ca88fe3-12686753
+"2-комн. кв., 45 м2, 3 этаж из 5","Бишкек, 8 м-н, советская","$ 40 000,3 391 556 сом","Продаётся 2 комнатная квартира Индвидуалка 
+Площадь: 45 м2 
+Этажность: 3 из 5
+Район: 8 мкр по Советской Средний ремонт 
+Отличная квартира, теплая, све...",https://www.house.kg/details/68487696138718f49ea92-77463309
+"2-комн. кв., 74 м2, 2 этаж из 10",Бишкек,"$ 65 000,5 511 279 сом","Срочно!!! Срочно!!! Срочно!!!
+Продается 2к шикарная квартира на Магистрали/Сухэ Батора! СК ДИАНУР
+ 
+Находится прямо за отелем Жаннат
+
+Квадратура 74м2
+...",https://www.house.kg/details/635359560f289ae0c53e4-03483839
+"2-комн. кв., 53 м2, 8 этаж из 9","Бишкек, Улан-2 м-н,  улан 2","$ 36 500,3 094 795 сом","Срочно продаю 2 ком квартиру!
+Адрес: Мкр  Улан2 
+Этаж 8 из 9 
+Площадь: 53м2
+Не угловая!
+Серия: 106 улучшенная, 2 лоджии
+Квартира с ремонтом!
+Мебель ча...",https://www.house.kg/details/249905261025dca64e037-73147440
+"2-комн. кв., 89.56 м2, 1 этаж из 12",Бишкек/Ахунбаева,"$ 62 692,5 315 586 сом","🛑Срочно продаю 2 комнатную квартиру в элитном жилом комплексе «Montreal Green» относящийся к категории комфорт💫
+📍Прекрасное месторасположение : Ахунба...",https://www.house.kg/details/6799377613f09f425f997-41386776
+"2-комн. кв., 43 м2, 3 этаж из 4","Бишкек, 4 м-н","$ 35 500,3 010 006 сом","💥💥Срочно Продается 2 комнатная
+квартира 💥💥
+
+📌 104 серия
+📌Адрес:  4 мкр
+📍Этаж 3/4
+
+📍Площадь: 43кв.м  
+📍Все Коммуникации Центральные 
+
+✅ Квартира в хоро...",https://www.house.kg/details/787599160ebc7e7469f29-95592775
+"1-комн. кв., 33 м2, 4 этаж из 5","Бишкек, 8 м-н","$ 29 500,2 501 273 сом","Продаю 1к квартиру  , 8 мкр , дом 1 по Советской , индивидуальный проект  . Общая площадь квартиры  33 м2  , этаж 4/5 , угловая  . Окна дерево и выход...",https://www.house.kg/details/358707561c85c220d2354-97941472
+"1-комн. кв., 44 м2, 9 этаж из 12","Бишкек, Ахунбаева 2/8/Каралаева","$ 25 500,2 162 117 сом","Очень срочно Продаётся 1комнатная элитная квартира в новом элитном комплексе
+Монреаль грин, псо , площадь 44м² есть возможность переделать в двух комн...",https://www.house.kg/details/756227060fd16ae7fe5f6-49107736
+"2-комн. кв., 69.12 м2, 13 этаж из 14","Бишкек, Джал 15 м-н, Ахунбаева/Тыналиева","$ 38 500,3 264 373 сом","🧨🧨🧨Срочно продаётся ДВУХКОМНАТНАЯ  квартира 
+В новом Элитном доме от застройщика: Ихлас🏡
+🏢ЖК ""Ихлас Джал"" 
+🔴С общей площадью 69,12 м 2
+🔹Этажность 13 и...",https://www.house.kg/details/21499906149972a6bf101-55550189
+"4-комн. кв., 173 м2, 3 этаж из 5","Бишкек, Байтик Баатыра 55/Магистраль","$ 173 000,14 668 480 сом","Продаю 4-х комн элитку ПСО
+СК ""Family village""
+173 кв м
+Район Советская/Магистраль (по Советской чуть выше Магистрали)
+3 этаж из 5
+Дом уже сдан ПСО, м...",https://www.house.kg/details/429598560e979e36c1bf6-75339290
+"2-комн. кв., 62 м2, 8 этаж из 13",Бишкек,"$ 76 000,6 443 956 сом","Очень Срочно🔥
+Продаётся 2х комнатная квартира Бизнес Класса!!!
+Золотой Квадрат
+Дом Находится на улице Сыдыкова (сзади торгового центра Караван).
+Застр...",https://www.house.kg/details/995301460ed4288c197f7-12613813
+"3-комн. кв., 116 м2, 14 этаж из 17","Бишкек, Карпинка, Фрунзе 300/3/Гоголя","$ 102 080,8 655 251 сом","✅Срочно Продается 3х комнатная квартира 
+
+▫️ЖК « Империал» Дом Премиум Класса ▫️Адрес: Фрунзе/Гоголя 
+▫️Этаж 14/17 
+▫️Площадь: 116м² 
+
+✅Все Коммуникац...",https://www.house.kg/details/48056126163f78427d9a2-65742420
+"2-комн. кв., 58.06 м2, 3 этаж из 14","Бишкек, Джал 15 м-н, Ахунбаева/Тыналиева","$ 34 000,2 882 823 сом","Срочно🔥🔥🔥 продаю 2х комнатную квартиру ПСО
+На Ахунбаева/Тыналиева Район нижний Джал 
+ЖК Джал-15  Застройщик""Ихлас""
+Все коммуникации центральные (отопл...",https://www.house.kg/details/76935036105021a096808-16322408
+"1-комн. кв., 40 м2, 3 этаж из 15","Бишкек, Джал 15 м-н","$ 35 000,2 967 612 сом","🔥Срочно продаю 1комн кввртиру в Джале!!! 🔥
+📌Площадь: 40кв.м 
+✔️Индивид. 
+🔺Этаж: 3\15 
+🔶Отопление: газовое
+❕Мебель и техника имеется. 
+
+Цена: 35 000$💵
+...",https://www.house.kg/details/386456860f1379cac2f71-86639517
+"3-комн. кв., 104 м2, 6 этаж из 10","Бишкек, 6 м-н, Каралаева 55/Сухэ Батора","$ 92 000,7 800 579 сом","Продается 3х квартира с ремонтом в новом элитном доме, адрес 6мкрн по Каралаева, этаж 8 из 10, площадь 104м², продается с мебелью с техникой заезжай ж...",https://www.house.kg/details/715513760e98a347aa682-79808655
+"1-комн. кв., 46 м2, 4 этаж из 9",Бишкек,"$ 28 000,2 374 089 сом","🔥Срочно продаю 1комн квартиру под ПСО!!!
+
+📌Площадь:  46м
+
+📌Элитка. Молодёжный квартал 
+
+📍Этаж: 4/9
+
+📍Адрес: Жилой комплекс «Молодежный KVARTAL»
+
+✅ Неу...",https://www.house.kg/details/256746360e97896c1a969-00894448
+"3-комн. кв., 116 м2, 7 этаж из 17","Бишкек, Фрунзе/Гоголя","$ 104 400,8 851 961 сом","💥💥Срочно Продается 3 комнатная
+квартира в ЖК « Империал» 💥💥
+
+📌 Дом Премиум Класса
+📌Адрес:  Фрунзе/Гоголя 
+📍Этаж 7/17
+
+📍Площадь: 116м²  
+📍ПСО
+📍Все Комм...",https://www.house.kg/details/375847160e977aa3b06a9-60924114
+"Участок, 5 соток","Бишкек, Ак-Ордо ж/м","$ 19 000,1 610 989 сом","Продается участок, ж/м Ак-Ордо, Новопавловка по ул.Ынтымак,  Коммуникации: Свет, Газ , Вода. Удобная транспортная развязка. 5 соток, длинна 28м* ширин...",https://www.house.kg/details/165696961979af4111207-08274761
+"4-комн. кв., 84 м2, 1 этаж из 2",с. Селекционное,"$ 21 500,1 822 961 сом","Срочно продаю 4ком квартиру в Сокулукском районе,село Первомайское  (Селекция)
+дом индивидуальной планировки
+площадь-84м2, с лоджией
+очень хороший рем...",https://www.house.kg/details/566028661793668e03be5-30710494
+"1-комн. кв., 50 м2, 3 этаж из 9","Бишкек, Верхний Джал м-н","$ 36 500,3 094 795 сом","Продаю однукомнатную элитку
+Верхний Джал
+евроремонт
+мебель по договоренности
+3/9
+площадь-48
+автономное отопление(остальное все центр)
+дом был сдан в э...",https://www.house.kg/details/834576361110492af60b5-44847661
+"3-комн. кв., 65 м2, 2 этаж из 5","Бишкек, Городок строителей","$ 53 000,4 493 812 сом","💥Продаётся 3-х комнатная квартира 💥
+♦️индивидуальный проект.  
+♦️квартира с мебелью✨
+♦️Площадь: 65 м2
+♦️Этаж: 2/5
+♦️2 балкона застеклены
+♦️Н/у
+♦️Матер...",https://www.house.kg/details/608673260f7cfcb4e52b6-95790191
+"1-комн. кв., 48 м2, 7 этаж из 9","Бишкек, Баха","$ 37 500,3 179 584 сом","Продается однокомнатная элитка
+Нижний Джал
+общая площадь 48м2
+7/9
+евроремонт
+с/у совмещенный
+все коммуникации центральные
+рядом есть магазин Ярмарка, ...",https://www.house.kg/details/292912361c4651a7602a1-15406948
+"1-комн. кв., 48 м2, 2 этаж из 10",Бишкек,"$ 33 800,2 865 865 сом","Срочно продаётся 1 комнатная квартира в ЖК Анкара 28, от застройщика Ихлас Площадь 48 м2 Этаж 2 из 10 Санузел совмещённый Все коммуникации центральные...",https://www.house.kg/details/299725160e9548b8dd305-83443984
+"Дом, 3-комн., 60 м2","Бишкек, Кызыл-Аскер ж/м,  ул.Джамгерчинова/Кайназарова","$ 63 000,5 341 701 сом","Продается дом ,участок 10 соток ,район Дордой Моторса по ул.Джамгерчинова /Кайназарова, баня ,газ,навес, хозпостройки, отопление комбинированное ,сад ...",https://www.house.kg/details/67174061c85b991a3eb8-72895572
+"1-комн. кв., 32 м2, 1 этаж из 4","Бишкек, 8 м-н, Советская","$ 31 500,2 670 850 сом","Срочно продается 1 ком.кв 
+ Район: 8 мкр по советской  
+Этажность: 1 из 4  
+104 серия  
+С ремонтом 
+Остается встроенная мебель +диван 
+Цена 31 500  
+(...",https://www.house.kg/details/824162961b888dcea81e2-25029951
+"3-комн. кв., 103 м2, 2 этаж из 10","Бишкек, Магистраль, Токомбаева 19/1","$ 72 100,6 113 280 сом","🔥🔥🔥Срочно продаю 3х комнатную квартиру🔥🔥🔥
+
+⚡️ПСО
+🔻Площадь: 103 кв.м 
+🔻Район : мкр Асанбай 
+🔻Застройщик: Олимп строй 
+🔻Жилой комплекс: Асанбай парк 
+🔻Э...",https://www.house.kg/details/397498661235625f23b82-87776399
+"2-комн. кв., 57 м2, 7 этаж из 10","Бишкек, АЮ Grand, Исакеева/Виноградная","$ 29 900,2 535 188 сом","Срочно продаю 2х комнатную квартиру 🔥🔥
+ЖК Келечек! 
+Застройщик КУТ СТРОЙ!!! Городского катка по ул.Горького!
+Дом на стадии строительства! Сдача под ре...",https://www.house.kg/details/4263211616a8e6e8b1720-57945001
+"1-комн. кв., 34 м2, 5 этаж из 5","Бишкек, Асанбай м-н, Асанбай мкр","$ 31 000,2 628 456 сом","Продаётся 1 комнатная квартира в мкр Асанбай. Свежий ремонт, не сдавалась, собственник. С крышой проблем нет, хороший район. Поблизости есть школы и с...",https://www.house.kg/details/140487060e92f94831102-42012352
+"2-комн. кв., 86.2 м2, 4 этаж из 10","Бишкек, чуйкова/орозбекова","$ 93 000,7 885 368 сом","Срочно продаётся 2 к.кв. Ул. Чуйкова/Орозбекова ЖК «МБС» Застройщик: МБС 2 комнатная квартира с дизайнерским ремонтом,с дорогой техникой и мебелью Пло...",https://www.house.kg/details/266159660e9284a1a7ba5-94018790
+"2-комн. кв., 60 м2, 3 этаж из 10","Бишкек, 12 м-н","$ 33 000,2 798 034 сом","Срочно!?Продаю 2-комн.кв. 12мкр р-н Бетонка ЖД «Алтын-Казык» Застройщик: «КУТСТРОЙ» Сдача ПСО 2021 год 3 квартал Этажи: 3-5 Дом 2х подъездный ,кирп...",https://www.house.kg/details/531004160e924632ce4e4-82403150
+"2-комн. кв., 48 м2, 4 этаж из 4","Бишкек, Площадь Победы","$ 35 000,2 967 612 сом","Срочно Продается 2х комнатная квартира 48 м2. 104 серия.  
+
+📌 Адрес: Площадь Победы\ Ибраимова
+📌 Этаж 4 из 4
+📌 Площадь: 48м2
+📌 После свежего ремонта
+📌...",https://www.house.kg/details/174307060e91bb5b520f9-48840812
+"1-комн. кв., 33 м2, 2 этаж из 5","Бишкек, Западный автовокзал","$ 28 000,2 374 089 сом","🔥Срочно продается 1 ком квартира 
+✅Индивидуальный проект
+✅Район западного автовокзала(по Жибек Жолу первая линия)
+✅Кирпичный дом
+✅ 2 этаж из 5
+✅Не угл...",https://www.house.kg/details/681827661c466b2064631-23341293
+"2-комн. кв., 66 м2, 10 этаж из 11","Бишкек, Восток-5 м-н, Кийизбаева 37/1/Мамбетова","$ 51 000,4 324 234 сом","Продаётся двухкомнатная квартира с потрясающим видом в новом элитном доме, этаж 10 из 11, коммуникации все центральные, площадь 66м² , два санузла, пр...",https://www.house.kg/details/455761161a21f635f3b50-07017208
+"1-комн. кв., 55 м2, 1 этаж из 10","Бишкек, Верхний Джал м-н","$ 40 000,3 391 556 сом","Срочно Продается 1 комнатная квартира 55 м2. индвид. планировка.   
+
+📌 Адрес:  мкрн. Верхний Джал, 4/1-4/3
+📌 Этаж: 1 этаж из 10
+📌 Площадь: 55 м2
+📌 Евр...",https://www.house.kg/details/989433960e91a223640a3-75792227
+"3-комн. кв., 114.7 м2, 7 этаж из 12","Бишкек, КНУ","$ 77 000,6 528 745 сом","Продается 3х комнатная квартира 
+Класса ""Комфорт+""
+В Тихом Центре Столицы
+Квартиры Под ПСО (без ремонта)
+Адрес: Калык Акиева/Фрунзе
+Застройщик КЖ Вост...",https://www.house.kg/details/3991188610e3c9d44e4a5-81567193
