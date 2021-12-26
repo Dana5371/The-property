@@ -8,14 +8,17 @@ def get_html(url):
     return responce.text
 
 
+def get_html_doska(url_doska):
+    r = requests.get(url_doska)
+    return r.text
+
+
 
 def get_data(html):
     soup = BS(html, 'html5lib')
     catalog = soup.find('div', class_='listings-wrapper')
- 
     aparts = catalog.find_all('div', class_='listing')
   
-
     for apart in aparts:
       
         try:
@@ -27,14 +30,12 @@ def get_data(html):
            link = apart.find('a').get('href')
        
         except:
-            title = 'not found'
-            location = 'not found'
-            price_dollar = 'under contract'
-            price_som = 'under contract'
-            description = 'not found'
-            link = 'not found'
-
-
+            title = ''
+            location = ''
+            price_dollar = ''
+            price_som = ''
+            description = ''
+            link = ''
 
         data = {
             'title': title,
@@ -45,6 +46,39 @@ def get_data(html):
         }   
  
         write_to_csv(data)
+
+
+def get_second_site(doska):
+    beauty = BS(doska, 'html5lib')
+    listt = beauty.find('div', class_='doska_last_items_list')
+    apartss = listt.find_all('div', class_='list_full dev')
+    for ap in apartss:
+        try:
+            title = ap.find('a', class_='title_url').text.strip()
+            price = ap.find('div', class_='list_full_price').text.strip()
+            link = ap.find('a', class_='title_url').get('href')
+           
+        except:
+            title = ''
+            price = ''
+            link = ''
+            location = ''
+            description = ''
+        
+        data = {
+            'title': title,
+            'price': price,
+            'link': f'https://doska.kg{link}',
+            'location' : 'Not found',
+            'description': 'Not found'
+        }   
+ 
+        write_to_csv(data)
+        
+
+
+
+        
 
 def write_headers():
       with open('apart.csv', 'a') as  file:
@@ -62,6 +96,17 @@ def write_to_csv(data):
                         'Link': data['link']
                         })
 
+
+def run_doska():
+    i = 1
+    while True:
+        url_doska = f'https://doska.kg/cat:117/&type=2&image=0&page={i}'
+        html_second = get_html_doska(url_doska)
+        if i == 10:
+            break
+        get_second_site(html_second)
+        i += 1
+
 def main():
     with open('apart.csv', 'w') as file:pass
     write_headers()
@@ -73,7 +118,9 @@ def main():
             break
         get_data(html=html)
         i += 1
-    
+    run_doska()
+   
+
 
     
 if __name__ == '__main__':
