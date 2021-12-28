@@ -1,7 +1,9 @@
 import requests
 from bs4 import BeautifulSoup as BS
 import csv
+import time
 
+start_time = time.time()
 
 def get_html_third(url_osh):
     re = requests.get(url_osh)
@@ -169,6 +171,9 @@ def main():
         i += 1
     run_doska()
     run_osh()
+    finish = time.time()- start_time
+    print(f'Time of working {finish}')
+
    
 
 
