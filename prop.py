@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup as BS
+from bs4 propertyimport BeautifulSoup as BS
 import csv
 import time
 
@@ -51,10 +51,6 @@ def get_third_site(osh):
  
         write_to_csv(data)
         
-
-
-
-
 
 def get_second_site(doska):
     beauty = BS(doska, 'html5lib')
@@ -115,11 +111,7 @@ def get_data(html):
  
         write_to_csv(data)
         
-
-
-
         
-
 def write_headers():
       with open('apart.csv', 'a') as  file:
         fieldnames = ['Title', 'Location', 'Price', 'Description', 'Link']
@@ -175,9 +167,5 @@ def main():
     print(f'Time of working {finish}')
 
    
-
-
-    
 if __name__ == '__main__':
     main()
-
