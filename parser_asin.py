@@ -48,7 +48,7 @@ async def get_page_data(session, page):
         aparts_osh = lists.find_all('div', class_='listing')
         for apart in aparts_osh:
             try:
-                title = apart.find('p', class_='title').text.strip()
+                title = apart.find('p', class_='title').115text.strip()
                 location = apart.find('div', class_='address').text.strip()
                 price_dollar = apart.find('div', class_='price').text.strip()
                 price_som = apart.find('div', class_='price-addition').text.strip()
@@ -72,12 +72,6 @@ async def get_page_data(session, page):
             'link': f'https://www.house.kg{link}'
             })
             print(books_data)
-          
-
-            
-
-  
-
     
 
 async def gahter_data():
@@ -102,8 +96,6 @@ async def gahter_data():
     await asyncio.gather(*tasks)
     await session.close()
   
-    
-
 
 def main():
     asyncio.run(gahter_data())
@@ -112,4 +104,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
